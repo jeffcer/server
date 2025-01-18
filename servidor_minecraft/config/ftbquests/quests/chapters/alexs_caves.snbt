@@ -3,9 +3,27 @@
 	default_quest_shape: ""
 	filename: "alexs_caves"
 	group: ""
+	icon: "alexscaves:spelunkery_table"
 	id: "28D3AB04C223EFF8"
 	order_index: 0
 	quest_links: [ ]
-	quests: [ ]
+	quests: [{
+		id: "25DFB23FC212AF0C"
+		tasks: [{
+			biome: "alexscaves:primordial_caves"
+			icon: {
+				Count: 1
+				id: "alexscaves:cave_tablet"
+				tag: {
+					CaveBiome: "alexscaves:primordial_caves"
+				}
+			}
+			id: "79F6487FE3CC7E13"
+			title: "Cueva Primordia"
+			type: "biome"
+		}]
+		x: -4.0d
+		y: -2.5d
+	}]
 	title: "Alex's Caves"
 }
