@@ -3,7 +3,7 @@
     "criteria": {
       "has_the_recipe": "2025-01-15 17:25:06 -0500"
     },
-    "done": false
+    "done": true
   },
   "ars_nouveau:root": {
     "criteria": {
@@ -242,7 +242,7 @@
     "criteria": {
       "killed_by": "2025-01-15 17:44:42 -0500"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
@@ -264,6 +264,7 @@
       "minecraft:creeper": "2025-01-16 18:43:36 -0500",
       "minecraft:wither_skeleton": "2025-01-16 22:24:35 -0500",
       "minecraft:husk": "2025-01-16 23:27:10 -0500",
+      "minecraft:ender_dragon": "2025-01-18 12:45:20 -0500",
       "minecraft:cave_spider": "2025-01-15 21:41:57 -0500",
       "minecraft:piglin": "2025-01-17 18:26:12 -0500",
       "minecraft:enderman": "2025-01-15 18:22:54 -0500",
@@ -294,7 +295,7 @@
       "minecraft:drowned": "2025-01-16 12:53:05 -0500",
       "minecraft:zombie_villager": "2025-01-17 00:06:04 -0500"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
@@ -336,7 +337,7 @@
     "criteria": {
       "from_undead": "2025-01-15 18:11:58 -0500"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
@@ -543,7 +544,7 @@
     "criteria": {
       "killed_fire_dragon": "2025-01-16 00:25:54 -0500"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
@@ -603,7 +604,7 @@
     "criteria": {
       "salmon_bucket": "2025-01-16 18:13:12 -0500"
     },
-    "done": false
+    "done": true
   },
   "simplyswords:simplyswords": {
     "criteria": {
@@ -657,19 +658,19 @@
     "criteria": {
       "discover_herbs": "2025-01-16 23:16:24 -0500"
     },
-    "done": false
+    "done": true
   },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2025-01-16 23:16:49 -0500"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-01-16 23:22:08 -0500"
     },
-    "done": false
+    "done": true
   },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
@@ -785,9 +786,9 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/enchanting_stats": {
+  "apotheosis:enchanting/bookshelf": {
     "criteria": {
-      "enchanted_item": "2025-01-17 22:20:44 -0500"
+      "bookshelf": "2025-01-17 22:02:25 -0500"
     },
     "done": true
   },
@@ -797,9 +798,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "shot_arrow": "2025-01-17 22:34:54 -0500"
+      "enchanted_item": "2025-01-17 22:06:54 -0500"
     },
     "done": true
   },
@@ -809,9 +810,15 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "apotheosis:enchanting/enchanting_stats": {
     "criteria": {
-      "enchanted_item": "2025-01-17 22:06:54 -0500"
+      "enchanted_item": "2025-01-17 22:20:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-17 22:34:54 -0500"
     },
     "done": true
   },
@@ -821,27 +828,51 @@
     },
     "done": true
   },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-01-17 22:49:36 -0500"
-    },
-    "done": true
-  },
   "apotheosis:spawner/root": {
     "criteria": {
       "spawner": "2025-01-17 22:48:26 -0500"
     },
     "done": true
   },
-  "apotheosis:enchanting/bookshelf": {
+  "minecraft:end/root": {
     "criteria": {
-      "bookshelf": "2025-01-17 22:02:25 -0500"
+      "entered_end": "2025-01-17 22:49:36 -0500"
     },
     "done": true
   },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-01-17 22:49:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-18 12:45:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-01-18 12:46:40 -0500"
+    },
+    "done": true
+  },
+  "enlightened_end:enderstride_advancement": {
+    "criteria": {
+      "enderstride_advancement": "2025-01-18 12:37:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-01-18 12:38:44 -0500"
+    },
+    "done": true
+  },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2025-01-18 12:45:29 -0500"
     },
     "done": true
   },
