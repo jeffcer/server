@@ -6,7 +6,10 @@
 	rewards_blocked: false
 	task_progress: { }
 	started: { }
-	completed: { }
+	completed: {
+		0C6A9884E040487A: 1737229728145L
+		6BA8ED1D4687CE29: 1737229728145L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }
