@@ -8,7 +8,21 @@
 	order_index: 0
 	quest_links: [ ]
 	quests: [{
-		id: "25DFB23FC212AF0C"
+		id: "6047D7C2AB7AE6D2"
+		rewards: [
+			{
+				count: 6
+				id: "357F7388CD6D6722"
+				item: "apotheosis:mythic_material"
+				type: "item"
+			}
+			{
+				count: 6
+				id: "1C50853BE63BE9AE"
+				item: "skilltree:wisdom_scroll"
+				type: "item"
+			}
+		]
 		tasks: [{
 			biome: "alexscaves:primordial_caves"
 			icon: {
@@ -18,12 +32,12 @@
 					CaveBiome: "alexscaves:primordial_caves"
 				}
 			}
-			id: "79F6487FE3CC7E13"
-			title: "Cueva Primordia"
+			id: "7813DF883E008335"
+			title: "Cueva Primordial"
 			type: "biome"
 		}]
 		x: -4.0d
-		y: -2.5d
+		y: -1.5d
 	}]
 	title: "Alex's Caves"
 }
