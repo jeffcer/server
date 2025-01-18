@@ -3627,3 +3627,51 @@ java.lang.NullPointerException: Element not found: amount
 [18Jan2025 19:41:01.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> deja veo
 [18Jan2025 19:41:28.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> q iciste :v
 [18Jan2025 19:41:32.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no me deio nd
+[18Jan2025 19:41:41.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> de queç
+[18Jan2025 19:41:41.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> x eso solo estoy probando xd
+[18Jan2025 19:41:50.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> a dale XD
+[18Jan2025 19:41:57.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> perdiste el hierro :v?
+[18Jan2025 19:43:37.103] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Jan2025 19:43:52.413] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Jan2025 19:43:52.414] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[18Jan2025 19:44:47.990] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Exception ticking world
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=lit, clazz=class java.lang.Boolean, values=[true, false]} as it does not exist in Block{minecraft:air}
+	at net.minecraft.world.level.block.state.StateHolder.m_61143_(StateHolder.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at com.soytutta.mynethersdelight.common.block.PowderyFlowerBlock.m_48972_(PowderyFlowerBlock.java:228) ~[MyNethersDelight-1.20.1-0.1.7.5.jar%23304!/:1.20.1-0.1.7.5]
+	at com.soytutta.mynethersdelight.common.block.PowderyFlowerBlock.m_213898_(PowderyFlowerBlock.java:125) ~[MyNethersDelight-1.20.1-0.1.7.5.jar%23304!/:1.20.1-0.1.7.5]
+	at net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase.m_222972_(BlockBehaviour.java:762) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8714_(ServerLevel.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_8490_(ServerChunkCache.java:362) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_201698_(ServerChunkCache.java:312) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:305) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	... 5 more
+[18Jan2025 19:44:48.020] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 271e1f40-5937-4361-bf02-7517e4fc08de
+[18Jan2025 19:44:48.021] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/server/servidor_minecraft/./crash-reports/crash-2025-01-18_19.44.47-server.txt
+[18Jan2025 19:44:48.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jan2025 19:44:48.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jan2025 19:44:48.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheAndrewX lost connection: Disconnected
+[18Jan2025 19:44:48.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheAndrewX left the game
+[18Jan2025 19:44:48.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jan2025 19:44:49.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jan2025 19:44:49.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[18Jan2025 19:44:49.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jan2025 19:44:49.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[18Jan2025 19:44:49.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jan2025 19:44:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jan2025 19:44:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[18Jan2025 19:44:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jan2025 19:44:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[18Jan2025 19:44:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jan2025 19:44:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jan2025 19:44:50.397] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Jan2025 19:44:50.399] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[18Jan2025 19:44:50.401] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[18Jan2025 19:44:50.406] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

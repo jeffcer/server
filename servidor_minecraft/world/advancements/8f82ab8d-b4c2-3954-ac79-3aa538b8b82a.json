@@ -191,7 +191,8 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-01-18 19:34:47 +0000",
-      "loot_bastion_hoglin_stable": "2025-01-18 19:29:03 +0000"
+      "loot_bastion_hoglin_stable": "2025-01-18 19:29:03 +0000",
+      "loot_bastion_bridge": "2025-01-18 19:42:30 +0000"
     },
     "done": false
   },
@@ -258,6 +259,7 @@
       "minecraft:skeleton": "2025-01-18 18:47:57 +0000",
       "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
       "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
+      "minecraft:zombified_piglin": "2025-01-18 19:43:06 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
       "minecraft:piglin": "2025-01-18 19:28:22 +0000",
       "minecraft:zombie": "2025-01-18 19:22:43 +0000"
@@ -293,6 +295,7 @@
       "minecraft:skeleton": "2025-01-18 18:47:57 +0000",
       "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
       "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
+      "minecraft:zombified_piglin": "2025-01-18 19:43:06 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
       "minecraft:piglin": "2025-01-18 19:28:22 +0000",
       "minecraft:zombie": "2025-01-18 19:22:43 +0000"
