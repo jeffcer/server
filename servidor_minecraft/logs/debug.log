@@ -17896,3 +17896,91 @@ java.lang.NullPointerException: Element not found: amount
 [18Jan2025 18:40:09.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> y tus cosas ?
 [18Jan2025 18:40:13.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> en la casaçw
 [18Jan2025 18:40:16.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> a ven
+[18Jan2025 18:40:32.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheAndrewX has reached the goal [Worthy Equipment]
+[18Jan2025 18:40:44.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheAndrewX has made the advancement [Splintering II]
+[18Jan2025 18:40:48.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheAndrewX has made the advancement [Render of Souls]
+[18Jan2025 18:41:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> voy a ponerme op para hacer de dia xdç
+[18Jan2025 18:41:11.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> no
+[18Jan2025 18:41:11.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[18Jan2025 18:41:11.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...jefferson _pad<--[HERE]
+[18Jan2025 18:41:23.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
+[18Jan2025 18:41:24.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> a si
+[18Jan2025 18:41:26.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ya esta
+[18Jan2025 18:41:35.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> me quitaste el op :v?
+[18Jan2025 18:41:41.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> si a los dos
+[18Jan2025 18:41:48.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> lo quiero para hacer las misiones xd
+[18Jan2025 18:41:53.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> a verdad
+[18Jan2025 18:41:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xd
+[18Jan2025 18:42:06.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> y para sacar cosas de creativo :v
+[18Jan2025 18:42:09.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> na mentira
+[18Jan2025 18:42:24.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made TheAndrewX a server operator
+[18Jan2025 18:42:30.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Jan2025 18:42:30.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HOLA<--[HERE]
+[18Jan2025 18:42:37.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> mira esta
+[18Jan2025 18:42:38.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 18:42:38.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 18:42:40.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> xd ya lo sacaste
+[18Jan2025 18:42:42.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Render of Souls]
+[18Jan2025 18:42:42.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Worthy Equipment]
+[18Jan2025 18:42:47.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> lo consegui del dragon
+[18Jan2025 18:42:54.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> asu
+[18Jan2025 18:43:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[18Jan2025 18:43:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...jefferson _pad<--[HERE]
+[18Jan2025 18:43:10.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> voy con tp xd
+[18Jan2025 18:43:14.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> xd
+[18Jan2025 18:43:30.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> ya estpy en casa
+[18Jan2025 18:43:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[18Jan2025 18:43:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...jefferson _pad<--[HERE]
+[18Jan2025 18:43:35.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheAndrewX has completed the challenge [Overkill]
+[18Jan2025 18:43:36.498] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@755803bd for service interface com.blamejared.clumps.platform.IEventHelper
+[18Jan2025 18:43:36.499] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@7786c205 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[18Jan2025 18:43:41.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[18Jan2025 18:44:02.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheAndrewX has made the advancement [Amateur Archaeologist]
+[18Jan2025 18:44:03.234] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[18Jan2025 18:44:03.234] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[18Jan2025 18:44:04.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Amateur Archaeologist]
+[18Jan2025 18:44:04.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Splintering II]
+[18Jan2025 18:44:04.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Warped]
+[18Jan2025 18:44:04.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [I Found It Underground]
+[18Jan2025 18:44:04.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Cover Me with Diamonds]
+[18Jan2025 18:44:04.743] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[18Jan2025 18:44:04.748] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[18Jan2025 18:44:24.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Not a Diamond]
+[18Jan2025 18:44:25.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Ice Bucket Challenge]
+[18Jan2025 18:44:44.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> bro me olvide sacar la mocjila de mi espalda :v
+[18Jan2025 18:44:47.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ya fue
+[18Jan2025 18:44:51.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> nmms xd
+[18Jan2025 18:44:55.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> q tenias ?}
+[18Jan2025 18:45:16.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no tenia muchas coss
+[18Jan2025 18:45:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no importa
+[18Jan2025 18:45:25.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> ok xd
+[18Jan2025 18:45:34.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> lo voy a cubrir de obsidiana el spaner xd
+[18Jan2025 18:45:38.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ya esta
+[18Jan2025 18:46:02.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
+[18Jan2025 18:46:12.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> me voya poner a hacer las misiones tardare mucho x q estare mirando tutorial :v
+[18Jan2025 18:46:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheAndrewX: Set own game mode to Creative Mode]
+[18Jan2025 18:46:20.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> dale normal
+[18Jan2025 18:46:23.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> voy a farmear
+[18Jan2025 18:46:29.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> tengo 0 de exp
+[18Jan2025 18:46:30.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> :v
+[18Jan2025 18:46:44.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> x q no la guardaste :v
+[18Jan2025 18:46:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no xD
+[18Jan2025 18:47:25.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Captured!]
+[18Jan2025 18:47:38.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jan2025 18:47:38.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jan2025 18:47:57.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Stone Age]
+[18Jan2025 18:48:01.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> bro te sale alex caves en misiones ?
+[18Jan2025 18:48:03.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Overkill]
+[18Jan2025 18:48:09.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> se salio de control
+[18Jan2025 18:48:12.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> el spwan
+[18Jan2025 18:48:19.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> xd xq?
+[18Jan2025 18:48:32.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Knowledge of Death]
+[18Jan2025 18:48:32.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Ashes 'n Bones]
+[18Jan2025 18:48:57.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Bone Crusher]
+[18Jan2025 18:49:14.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no hay el mod de los anillos nio ?
+[18Jan2025 18:50:17.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> como hacemos para que filtre mas rapido :v
+[18Jan2025 18:50:38.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> a ya me acorde con el crate
+[18Jan2025 18:50:41.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> de ahi lo hago XD
+[18Jan2025 18:50:52.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> q
+[18Jan2025 18:50:54.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> xd
+[18Jan2025 18:51:00.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> que paso
