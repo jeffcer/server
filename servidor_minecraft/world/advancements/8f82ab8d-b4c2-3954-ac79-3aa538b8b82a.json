@@ -5,9 +5,27 @@
     },
     "done": true
   },
+  "rats:cheese": {
+    "criteria": {
+      "get_cheese": "2025-01-18 19:14:50 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/spawncount": {
     "criteria": {
       "modifier": "2025-01-18 19:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-18 19:15:51 +0000"
+    },
+    "done": true
+  },
+  "rats:tame_rat": {
+    "criteria": {
+      "tame_rat": "2025-01-18 19:15:51 +0000"
     },
     "done": true
   },
@@ -265,6 +283,18 @@
       "sword": "2025-01-18 18:35:00 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-01-18 19:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "chorus_fruit": "2025-01-18 19:07:39 +0000"
+    },
+    "done": false
   },
   "minecraft:husbandry/root": {
     "criteria": {
