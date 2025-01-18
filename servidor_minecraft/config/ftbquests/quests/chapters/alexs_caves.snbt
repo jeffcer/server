@@ -5,7 +5,7 @@
 	group: ""
 	icon: "alexscaves:spelunkery_table"
 	id: "28D3AB04C223EFF8"
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -166,6 +166,38 @@
 				type: "biome"
 			}]
 			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "706A9E5C22173335"
+			rewards: [
+				{
+					count: 6
+					id: "6959F1ECFA338390"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "4953FF486C2B95CA"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "alexscaves:magnetic_caves"
+				icon: {
+					Count: 1
+					id: "alexscaves:cave_tablet"
+					tag: {
+						CaveBiome: "alexscaves:magnetic_caves"
+					}
+				}
+				id: "15BC468B2E148E4A"
+				title: "Cueva Magnetica "
+				type: "biome"
+			}]
+			x: -1.0d
 			y: -1.5d
 		}
 	]

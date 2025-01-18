@@ -3577,3 +3577,53 @@ java.lang.NullPointerException: Element not found: amount
 [18Jan2025 19:19:54.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> a ver voy a agregar la tienda aun q eso era lo ultimo q queria hacver xd
 [18Jan2025 19:20:14.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> espera ya regreso
 [18Jan2025 19:20:18.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> dale
+[18Jan2025 19:22:33.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [We Need to Go Deeper]
+[18Jan2025 19:22:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [A Terrible Fortress]
+[18Jan2025 19:24:45.559] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[18Jan2025 19:24:45.560] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[18Jan2025 19:24:45.561] [Worker-Main-26/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[18Jan2025 19:26:59.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of jefferson_pad) moved wrongly! 0.3042395719956801
+[18Jan2025 19:26:59.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of jefferson_pad) moved wrongly! 0.775785688412256
+[18Jan2025 19:26:59.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of jefferson_pad) moved wrongly! 0.34270985917795826
+[18Jan2025 19:26:59.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of jefferson_pad) moved wrongly! 0.9635950172304888
+[18Jan2025 19:26:59.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Camel (vehicle of jefferson_pad) moved wrongly! 1.6135083629423832
+[18Jan2025 19:28:02.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Those Were the Days]
+[18Jan2025 19:29:03.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement ['X' Marks the Spot]
+[18Jan2025 19:29:19.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Magic Writing]
+[18Jan2025 19:29:26.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [A little cleaning is necessary]
+[18Jan2025 19:29:46.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Hidden in the Depths]
+[18Jan2025 19:30:02.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Who is Cutting Onions?]
+[18Jan2025 19:30:23.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> bro dime algo q quieres q venda xd
+[18Jan2025 19:30:35.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> ni idea los toqens
+[18Jan2025 19:31:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> toquens de q ?
+[18Jan2025 19:32:00.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheAndrewX moved too quickly! 7.444672961870822,5.047658888008229,5.674543176055977
+[18Jan2025 19:32:25.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> de cualquiera
+[18Jan2025 19:32:30.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> de lso que hay pues
+[18Jan2025 19:32:39.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> de q mod ?
+[18Jan2025 19:32:51.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> slamente pon tokens y lo que sean mas op
+[18Jan2025 19:32:57.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> pero que esten caros xD
+[18Jan2025 19:33:15.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> no me salen nada
+[18Jan2025 19:33:20.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> :v
+[18Jan2025 19:33:30.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> entonces no se :c
+[18Jan2025 19:33:32.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> de q mods son esos tokens?
+[18Jan2025 19:33:39.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> deja veo
+[18Jan2025 19:33:50.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> :v me sale algo del ratlantis
+[18Jan2025 19:33:50.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> friends & foes
+[18Jan2025 19:34:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> bro no quisiste decir totens :v?
+[18Jan2025 19:35:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> si XD
+[18Jan2025 19:35:44.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> y q hacen esos?
+[18Jan2025 19:36:30.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> pregunto para saber si estan chetados y ver q precio ponerle xd
+[18Jan2025 19:36:42.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no se XD
+[18Jan2025 19:36:46.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> el que me toco
+[18Jan2025 19:36:52.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> solamente me triplica
+[18Jan2025 19:38:04.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> aparte no c como hacer para q sea una mision q se complete muchas veces aun xd
+[18Jan2025 19:38:18.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> XD
+[18Jan2025 19:38:22.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no te sale en internet ?
+[18Jan2025 19:38:30.852] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:crimson_mosquito was not found when trying to access it! Returning 0
+[18Jan2025 19:38:57.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> pues me sale como crear misiones pero aun no veo como hacer q sean misiones q se puedan completar muchas veces asi q voy a probar xd
+[18Jan2025 19:39:13.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheAndrewX has made the advancement [Acquire Hardware]
+[18Jan2025 19:39:13.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> dale
+[18Jan2025 19:40:56.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> no te dio recompensa ni nada no :v solo estoy probando xd
+[18Jan2025 19:41:01.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> deja veo
+[18Jan2025 19:41:28.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> q iciste :v
+[18Jan2025 19:41:32.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jefferson_pad> no me deio nd

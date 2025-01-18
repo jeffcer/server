@@ -1,15 +1,40 @@
 {
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-18 19:30:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-01-18 18:34:22 +0000"
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-18 19:29:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-01-18 19:29:03 +0000"
+    },
+    "done": false
+  },
   "rats:cheese": {
     "criteria": {
       "get_cheese": "2025-01-18 19:14:50 +0000"
     },
     "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-18 19:28:27 +0000",
+      "killed": "2025-01-18 19:28:27 +0000"
+    },
+    "done": false
   },
   "apotheosis:spawner/spawncount": {
     "criteria": {
@@ -41,9 +66,23 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-18 19:27:59 +0000",
+      "minecraft:nether_wastes": "2025-01-18 19:22:34 +0000",
+      "minecraft:soul_sand_valley": "2025-01-18 19:26:31 +0000"
+    },
+    "done": false
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2025-01-18 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-18 19:22:33 +0000"
     },
     "done": true
   },
@@ -101,6 +140,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-18 19:22:33 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-01-18 18:51:19 +0000"
@@ -143,6 +188,13 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-18 19:34:47 +0000",
+      "loot_bastion_hoglin_stable": "2025-01-18 19:29:03 +0000"
+    },
+    "done": false
+  },
   "netherexp:nether/overkill": {
     "criteria": {
       "overkill": "2025-01-18 18:48:03 +0000"
@@ -164,6 +216,12 @@
   "apotheosis:spawner/noai": {
     "criteria": {
       "modifier": "2025-01-18 19:05:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-18 19:29:26 +0000"
     },
     "done": true
   },
@@ -197,7 +255,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-18 18:47:57 +0000"
+      "minecraft:skeleton": "2025-01-18 18:47:57 +0000",
+      "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
+      "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
+      "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
+      "minecraft:piglin": "2025-01-18 19:28:22 +0000",
+      "minecraft:zombie": "2025-01-18 19:22:43 +0000"
     },
     "done": false
   },
@@ -227,7 +290,12 @@
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-18 18:47:57 +0000"
+      "minecraft:skeleton": "2025-01-18 18:47:57 +0000",
+      "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
+      "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
+      "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
+      "minecraft:piglin": "2025-01-18 19:28:22 +0000",
+      "minecraft:zombie": "2025-01-18 19:22:43 +0000"
     },
     "done": false
   },
@@ -250,13 +318,32 @@
       "minecraft:river": "2025-01-18 18:43:47 +0000",
       "minecraft:forest": "2025-01-18 18:41:51 +0000",
       "minecraft:ocean": "2025-01-18 18:43:59 +0000",
-      "minecraft:flower_forest": "2025-01-18 18:46:10 +0000"
+      "minecraft:flower_forest": "2025-01-18 18:46:10 +0000",
+      "minecraft:plains": "2025-01-18 19:19:28 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-18 19:28:02 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-01-18 19:26:31 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-01-18 19:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-18 19:29:46 +0000"
     },
     "done": true
   },
@@ -295,6 +382,12 @@
       "chorus_fruit": "2025-01-18 19:07:39 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-18 19:29:19 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -335,6 +428,12 @@
   "rats:root": {
     "criteria": {
       "tick": "2025-01-18 18:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-18 19:22:34 +0000"
     },
     "done": true
   },
