@@ -775,6 +775,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-19 19:34:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-01-19 19:09:45 +0000"
@@ -794,6 +800,12 @@
     },
     "done": false
   },
+  "rats:plague": {
+    "criteria": {
+      "catch_plague": "2025-01-19 19:35:26 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-01-19 18:52:20 +0000"
@@ -803,6 +815,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-01-19 19:15:25 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-01-19 19:33:49 +0000"
     },
     "done": true
   },
@@ -839,6 +857,12 @@
   "enlightened_end:enter_freezing_end": {
     "criteria": {
       "enter_freezing_end": "2025-01-19 18:18:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-01-19 19:41:12 +0000"
     },
     "done": true
   },
