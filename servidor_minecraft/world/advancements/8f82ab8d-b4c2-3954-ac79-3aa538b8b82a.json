@@ -55,6 +55,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-01-18 21:17:19 +0000",
+      "minecraft:sunflower_plains": "2025-01-18 21:11:43 +0000",
       "minecraft:birch_forest": "2025-01-18 18:34:22 +0000",
       "minecraft:beach": "2025-01-18 18:43:54 +0000",
       "minecraft:river": "2025-01-18 18:43:47 +0000",
@@ -209,25 +211,43 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-01-18 20:43:32 +0000",
       "minecraft:skeleton": "2025-01-18 18:47:57 +0000",
       "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
       "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
+      "minecraft:spider": "2025-01-18 20:17:57 +0000",
+      "minecraft:creeper": "2025-01-18 20:26:03 +0000",
+      "minecraft:evoker": "2025-01-18 21:58:01 +0000",
       "minecraft:zombified_piglin": "2025-01-18 19:43:06 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
+      "minecraft:shulker": "2025-01-18 22:00:11 +0000",
       "minecraft:piglin": "2025-01-18 19:28:22 +0000",
-      "minecraft:zombie": "2025-01-18 19:22:43 +0000"
+      "minecraft:stray": "2025-01-18 20:18:37 +0000",
+      "minecraft:enderman": "2025-01-18 21:47:08 +0000",
+      "minecraft:vex": "2025-01-18 21:57:52 +0000",
+      "minecraft:zombie": "2025-01-18 19:22:43 +0000",
+      "minecraft:drowned": "2025-01-18 20:37:55 +0000"
     },
     "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
+      "minecraft:blaze": "2025-01-18 20:43:32 +0000",
       "minecraft:skeleton": "2025-01-18 18:47:57 +0000",
       "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
       "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
+      "minecraft:spider": "2025-01-18 20:17:57 +0000",
+      "minecraft:creeper": "2025-01-18 20:26:03 +0000",
+      "minecraft:evoker": "2025-01-18 21:58:01 +0000",
       "minecraft:zombified_piglin": "2025-01-18 19:43:06 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
+      "minecraft:shulker": "2025-01-18 22:00:11 +0000",
       "minecraft:piglin": "2025-01-18 19:28:22 +0000",
-      "minecraft:zombie": "2025-01-18 19:22:43 +0000"
+      "minecraft:stray": "2025-01-18 20:18:37 +0000",
+      "minecraft:enderman": "2025-01-18 21:47:08 +0000",
+      "minecraft:vex": "2025-01-18 21:57:52 +0000",
+      "minecraft:zombie": "2025-01-18 19:22:43 +0000",
+      "minecraft:drowned": "2025-01-18 20:37:55 +0000"
     },
     "done": false
   },
@@ -359,7 +379,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "chorus_fruit": "2025-01-18 19:07:39 +0000"
+      "chorus_fruit": "2025-01-18 19:07:39 +0000",
+      "pufferfish": "2025-01-18 21:17:47 +0000",
+      "golden_apple": "2025-01-18 21:25:11 +0000",
+      "rotten_flesh": "2025-01-18 20:53:34 +0000"
     },
     "done": false
   },
@@ -441,6 +464,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-01-18 21:12:43 +0000",
       "opened_chest": "2025-01-18 19:29:03 +0000"
     },
     "done": false
@@ -474,6 +498,270 @@
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
       "crying_obsidian": "2025-01-18 19:30:02 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-18 19:55:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-18 19:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-18 19:58:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-01-18 20:00:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-01-18 20:16:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-01-18 20:20:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-01-18 20:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-18 20:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-18 20:27:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bonk": {
+    "criteria": {
+      "bonk_0": "2025-01-18 20:37:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-01-18 20:38:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-18 20:38:22 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-01-18 20:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-18 20:43:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-01-18 20:50:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-01-18 21:11:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-01-18 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-01-18 21:12:45 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-01-18 21:13:38 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-01-18 21:15:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-01-18 21:16:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 21:18:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-01-18 21:20:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-18 21:20:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-18 21:26:35 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-01-18 21:33:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-18 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-18 21:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-01-18 21:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-01-18 21:37:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-18 21:44:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 21:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-18 21:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-18 21:44:36 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:enderstride_advancement": {
+    "criteria": {
+      "enderstride_advancement": "2025-01-18 21:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-18 21:52:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-18 21:52:37 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:enlightened_end_root": {
+    "criteria": {
+      "enlightened_end_root": "2025-01-18 21:53:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-01-18 21:56:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-01-18 21:58:01 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-01-18 21:58:01 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-01-18 21:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-18 21:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-18 21:59:47 +0000"
     },
     "done": true
   },

@@ -2,9 +2,7 @@
 	id: "c5f3efec-9b40-35c4-adc0-ae157e6907fd"
 	type: "player"
 	player_name: "TheAndrewX"
-	ranks: {
-		c5f3efec-9b40-35c4-adc0-ae157e6907fd: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "TheAndrewX"
 		"ftbteams:description": ""

@@ -1,0 +1,383 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gremio_de_aventureros"
+	group: ""
+	icon: {
+		Count: 1
+		id: "minecraft:netherite_sword"
+		tag: {
+			Damage: 0
+			affix_data: {
+				sockets: 1
+			}
+		}
+	}
+	id: "394E6F11730B22C1"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5CBDC016B3ADA554"
+			rewards: [
+				{
+					id: "29C53376DCFF2C99"
+					item: "artifacts:bunny_hoppers"
+					type: "item"
+				}
+				{
+					id: "1FD5441C8AB27586"
+					item: "artifacts:cloud_in_a_bottle"
+					type: "item"
+				}
+				{
+					id: "309E58D648E936F8"
+					item: {
+						Count: 1
+						id: "artifacts:lucky_scarf"
+						tag: {
+							abilities: {
+								luck: {
+									points: 0
+									stats: {
+										chance: 0.19977d
+									}
+								}
+							}
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "377547AA91F7C966"
+					item: "minecraft:skeleton_skull"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "6461F0315B3203AE"
+					item: "handcrafted:skeleton_trophy"
+					type: "item"
+				}
+				{
+					id: "35249A1A8956033A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "7AA26DE95A5EEFFC"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			id: "21D6A8017B064F66"
+			rewards: [
+				{
+					count: 10
+					id: "1F90E6332105E083"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "2EC10EE3741558C2"
+					item: "friendsandfoes:totem_of_illusion"
+					type: "item"
+				}
+				{
+					id: "739508E7D0DB8EE7"
+					item: "friendsandfoes:totem_of_freezing"
+					type: "item"
+				}
+				{
+					id: "25599FD3C3C73A13"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 10
+					id: "1674599AFB74BD82"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					id: "40B88107BE843CCF"
+					item: "skilltree:amnesia_scroll"
+					type: "item"
+				}
+				{
+					id: "65C187F84E71EB61"
+					item: "minecraft:zombie_head"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "735F65EC556C9B5A"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			id: "1DBE072523DBEB1E"
+			rewards: [
+				{
+					count: 5
+					id: "183F635D61987ED7"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "362428AA6B498556"
+					item: "minecraft:netherite_upgrade_smithing_template"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "3E176EDF8ED6769D"
+					item: "minecraft:wither_skeleton_skull"
+					type: "item"
+				}
+				{
+					count: 32
+					id: "003CE6E19DE368AC"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "4C1151688F73DDDC"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					id: "59B30122E0D6F881"
+					item: "skilltree:amnesia_scroll"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				id: "610CE24AF1CBC1AA"
+				type: "kill"
+				value: 100L
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			id: "3B3DE94E5614D8D0"
+			rewards: [
+				{
+					id: "79369C4E2AB6F8A5"
+					item: "artifacts:running_shoes"
+					type: "item"
+				}
+				{
+					id: "0C91E81BF2807F7A"
+					item: "artifacts:night_vision_goggles"
+					type: "item"
+				}
+				{
+					id: "59416926731F4FA0"
+					item: {
+						Count: 1
+						id: "artifacts:scarf_of_invisibility"
+						tag: {
+							abilities: {
+								invisible: {
+									points: 0
+									stats: {
+										radius: 4.61597d
+										threshold: 0.07901d
+									}
+									temp: {
+										ticking: 1b
+									}
+								}
+							}
+							affix_data: {
+								sockets: 1
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "696DC645FBF4ACB2"
+					item: "minecraft:creeper_head"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "53370632ED3E58AF"
+					item: "handcrafted:creeper_trophy"
+					type: "item"
+				}
+				{
+					id: "166F1C4A85CEF79C"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "1E8C209539245ED0"
+				type: "kill"
+				value: 50L
+			}]
+			x: -3.0d
+			y: -1.0d
+		}
+		{
+			id: "4BA8265E1D97E843"
+			rewards: [
+				{
+					id: "3085FECB69C84A2F"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 12
+					id: "4E1035402BCE1DEB"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					id: "189A0F0F59251574"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:looting"
+								lvl: 5s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "iceandfire:fire_dragon"
+					icon: "iceandfire:spawn_egg_fire_dragon"
+					id: "6478A56E5C8713FA"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "205C56E83269BB1F"
+					item: "iceandfire:fire_dragon_blood"
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "3E1CDC17A0A5C03D"
+			rewards: [
+				{
+					id: "4A3DFA0AB7A2689A"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 12
+					id: "3C303A74EF033F46"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					id: "3091D275156663DF"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:fortune"
+								lvl: 5s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "iceandfire:ice_dragon"
+					icon: "iceandfire:spawn_egg_ice_dragon"
+					id: "0D9E6071B86CABFE"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "4FA979F58E01D4E3"
+					item: "iceandfire:ice_dragon_blood"
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "52F800B25E48ABBC"
+			rewards: [
+				{
+					id: "0FE62CE899CB2699"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 12
+					id: "6F71972213C29BE1"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					id: "782EC1E262FDB12A"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:power"
+								lvl: 7s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "iceandfire:lightning_dragon"
+					icon: "iceandfire:spawn_egg_lightning_dragon"
+					id: "321A652DEAB4F6BC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "1D32CCE8FB7D94AE"
+					item: "iceandfire:lightning_dragon_blood"
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+	]
+	title: "Gremio De Aventureros"
+}

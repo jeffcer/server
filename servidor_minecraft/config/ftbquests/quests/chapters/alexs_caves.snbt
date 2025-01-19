@@ -5,7 +5,7 @@
 	group: ""
 	icon: "alexscaves:spelunkery_table"
 	id: "28D3AB04C223EFF8"
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{

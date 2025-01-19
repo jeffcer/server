@@ -1,0 +1,303 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "jefes"
+	group: ""
+	icon: "minecraft:dragon_egg"
+	id: "4B73E7459E965537"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2436BBA2AEFB8139"
+			rewards: [
+				{
+					id: "48107DAB651A3E59"
+					item: {
+						Count: 1
+						id: "justhammers:netherite_impact_hammer"
+						tag: {
+							Damage: 0
+							Enchantments: [
+								{
+									id: "minecraft:efficiency"
+									lvl: 6s
+								}
+								{
+									id: "minecraft:unbreaking"
+									lvl: 6s
+								}
+								{
+									id: "minecraft:silk_touch"
+									lvl: 1s
+								}
+								{
+									id: "minecraft:mending"
+									lvl: 1s
+								}
+							]
+							RepairCost: 15
+							affix_data: {
+								sockets: 0
+							}
+							display: {
+								Name: "{\"text\":\"Wither hammer\"}"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 10
+					id: "700D9F88A6819437"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "02E62CEB203DF792"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "3C08D2DFA68BF6BB"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.5d
+			y: -2.5d
+		}
+		{
+			id: "64EA5396347F31F2"
+			rewards: [
+				{
+					id: "046F4C7A24867635"
+					item: "rats:rat_upgrade_dragon"
+					type: "item"
+				}
+				{
+					id: "14E1E9D97F54E7D9"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:fortune"
+								lvl: 6s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 6
+					id: "0B8D64CDD7748384"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "419AF5C391184F37"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "5936D0DA1AACF23B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			id: "263923805BF494FC"
+			rewards: [
+				{
+					id: "319EB05B08910A6D"
+					item: "cataclysm:the_leviathan_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "47437059AA49F732"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:sharpness"
+								lvl: 9s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "3828BE0FA91A00EC"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "182DD23BB220321D"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3A623D670B7C190C"
+					item: "mysticalagriculture:imperium_gemstone_block"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "213D83B0ACA4B6C3"
+					item: "mysticalagriculture:imperium_ingot_block"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: "cataclysm:the_leviathan_spawn_egg"
+				id: "3DE35EA24F5FB11F"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			id: "5ECA65EC499136A7"
+			rewards: [
+				{
+					id: "0129D0DBDE11436B"
+					item: "cataclysm:netherite_monstrosity_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "0A5F9B2F4D2A593A"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 8s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "2A0DF4CBB037AF9C"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "1F1A4EBF11D9A3DE"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "312337F1F5833353"
+					item: "mysticalagriculture:imperium_ingot_block"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "54F99AB5EAA61785"
+					item: "mysticalagriculture:imperium_gemstone_block"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: "cataclysm:netherite_monstrosity_spawn_egg"
+				id: "7B057EFFB98AB592"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			id: "0C7E7B265198B5D3"
+			rewards: [
+				{
+					id: "094D8E3AD50EED67"
+					item: "cataclysm:ancient_remnant_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "1E56217D195F4FF8"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 8s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "65C92D43DE4E7D04"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 8s
+							}]
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "7C97865400DF4C05"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "2E188D47E6D4A0B7"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "776AAD07BD1508A0"
+					item: "mysticalagriculture:supremium_ingot_block"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "0AC7077B9CBF6012"
+					item: "mysticalagriculture:supremium_gemstone_block"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: "cataclysm:ancient_remnant_spawn_egg"
+				id: "5C543B066A4AA49A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+	]
+	title: "Jefes"
+}

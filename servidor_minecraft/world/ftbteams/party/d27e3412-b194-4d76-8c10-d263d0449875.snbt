@@ -1,0 +1,17 @@
+{
+	id: "d27e3412-b194-4d76-8c10-d263d0449875"
+	type: "party"
+	owner: "c5f3efec-9b40-35c4-adc0-ae157e6907fd"
+	ranks: {
+		c5f3efec-9b40-35c4-adc0-ae157e6907fd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Equipo Damante"
+		"ftbteams:description": ":v "
+		"ftbteams:color": "#59FF97"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1737235030981L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TheAndrewX\"}]}" }]
+	extra: { }
+}
