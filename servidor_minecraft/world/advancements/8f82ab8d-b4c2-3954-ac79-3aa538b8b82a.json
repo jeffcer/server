@@ -966,11 +966,11 @@
     },
     "done": true
   },
-  "quark:overlevel_enchant": {
+  "rats:all_hats": {
     "criteria": {
-      "overlevel_enchant": "2025-01-19 21:07:44 +0000"
+      "has_archeologist_hat": "2025-01-19 20:56:47 +0000"
     },
-    "done": true
+    "done": false
   },
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
@@ -978,11 +978,17 @@
     },
     "done": true
   },
-  "rats:all_hats": {
+  "quark:overlevel_enchant": {
     "criteria": {
-      "has_archeologist_hat": "2025-01-19 20:56:47 +0000"
+      "overlevel_enchant": "2025-01-19 21:07:44 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-19 21:13:59 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
@@ -990,11 +996,35 @@
     },
     "done": false
   },
-  "minecraft:nether/netherite_armor": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "netherite_armor": "2025-01-19 21:13:59 +0000"
+      "traded": "2025-01-19 21:27:50 +0000"
     },
     "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-01-19 21:28:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2025-01-19 21:31:01 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2025-01-19 21:31:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2025-01-19 21:31:01 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
