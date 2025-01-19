@@ -3896,3 +3896,74 @@ java.lang.NullPointerException: Element not found: amount
 [19Jan2025 21:32:31.258] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [19Jan2025 21:32:31.259] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
 [19Jan2025 21:38:01.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Mysterious Metal]
+[19Jan2025 21:51:11.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad was kicked for floating too long!
+[19Jan2025 21:51:11.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Flying is not enabled on this server
+[19Jan2025 21:51:11.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[19Jan2025 21:51:25.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[19Jan2025 21:51:32.511] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[19Jan2025 21:51:32.517] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[19Jan2025 21:51:32.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.26.62.96:56471] logged in with entity id 55404 at (-1058.1214691563807, -33.30336426483474, -432.3593615885601)
+[19Jan2025 21:51:32.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[19Jan2025 21:51:32.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[19Jan2025 21:51:32.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[19Jan2025 21:51:32.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[19Jan2025 21:51:32.521] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[19Jan2025 21:51:32.523] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[19Jan2025 21:51:32.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[19Jan2025 21:51:32.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[19Jan2025 21:51:32.582] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[19Jan2025 21:51:32.583] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[19Jan2025 21:55:26.345] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.AssertionError: Damage type not found in registry. This is a bug from that mod that added it!: DamageType[msgId=crystallization, scaling=WHEN_CAUSED_BY_LIVING_NON_PLAYER, exhaustion=0.0, effects=HURT, deathMessageType=DEFAULT]
+	at net.mehvahdjukaar.dummmmmmy.network.ClientBoundDamageNumberMessage.encodeDamage(ClientBoundDamageNumberMessage.java:50) ~[dummmmmmy-1.20-2.0.2.jar%23263!/:?]
+	at net.mehvahdjukaar.dummmmmmy.network.ClientBoundDamageNumberMessage.<init>(ClientBoundDamageNumberMessage.java:41) ~[dummmmmmy-1.20-2.0.2.jar%23263!/:?]
+	at net.mehvahdjukaar.dummmmmmy.common.ModEvents.onEntityDamage(ModEvents.java:73) ~[dummmmmmy-1.20-2.0.2.jar%23263!/:?]
+	at net.minecraft.world.entity.LivingEntity.wrapOperation$zgn000$actuallyHurt_setHealth(LivingEntity.java:8540) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6475_(LivingEntity.java:1635) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1112) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.monster.Shulker.m_6469_(Shulker.java:401) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at com.obscuria.aquamirae.common.effects.CrystallizationMobEffect.m_6386_(CrystallizationMobEffect.java:30) ~[aquamirae-6.API15.jar%23231!/:com.obscuria]
+	at net.minecraft.world.entity.LivingEntity.m_7285_(LivingEntity.java:1024) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:763) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.Mob.m_6075_(Mob.java:271) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.monster.Shulker.m_8119_(Shulker.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	... 5 more
+[19Jan2025 21:55:26.409] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID d2b80c94-303e-445b-b4ad-9a23f55c360f
+[19Jan2025 21:55:26.409] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/server/servidor_minecraft/./crash-reports/crash-2025-01-19_21.55.26-server.txt
+[19Jan2025 21:55:26.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Jan2025 21:55:26.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Jan2025 21:55:26.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Server closed
+[19Jan2025 21:55:26.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[19Jan2025 21:55:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Jan2025 21:55:26.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Jan2025 21:55:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Jan2025 21:55:27.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Jan2025 21:55:27.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[19Jan2025 21:55:27.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[19Jan2025 21:55:27.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Jan2025 21:55:27.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Jan2025 21:55:27.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Jan2025 21:55:27.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[19Jan2025 21:55:27.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[19Jan2025 21:55:27.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Jan2025 21:55:28.294] [Server thread/INFO] [Framework/]: Unloading server configs...
+[19Jan2025 21:55:28.299] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[19Jan2025 21:55:28.303] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[19Jan2025 21:55:28.307] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
