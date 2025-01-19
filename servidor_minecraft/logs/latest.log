@@ -3822,3 +3822,33 @@ java.lang.NullPointerException: Element not found: amount
 [19Jan2025 20:33:40.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
 [19Jan2025 20:33:40.708] [Server thread/INFO] [spawnermod/]: Sending config to player.
 [19Jan2025 20:33:40.710] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[19Jan2025 20:40:16.354] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/33973, l='ServerLevel[world]', x=-1735.57, y=71.66, z=-0.09]
+[19Jan2025 20:40:16.355] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/33974, l='ServerLevel[world]', x=-1744.89, y=72.94, z=-0.16]
+[19Jan2025 20:40:16.355] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/33975, l='ServerLevel[world]', x=-1744.80, y=72.15, z=-0.17]
+[19Jan2025 20:40:16.355] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/33976, l='ServerLevel[world]', x=-1742.29, y=70.83, z=-0.29]
+[19Jan2025 20:40:16.356] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/33977, l='ServerLevel[world]', x=-1746.54, y=72.39, z=-0.37]
+[19Jan2025 20:40:16.356] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/33978, l='ServerLevel[world]', x=-1743.06, y=70.83, z=-0.04]
+[19Jan2025 20:40:16.356] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/33979, l='ServerLevel[world]', x=-1727.73, y=74.92, z=-0.04]
+[19Jan2025 20:40:16.357] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/33980, l='ServerLevel[world]', x=-1745.64, y=71.48, z=-0.18]
+[19Jan2025 20:40:16.357] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/33981, l='ServerLevel[world]', x=-1744.33, y=71.51, z=-0.31]
+[19Jan2025 20:40:16.357] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/33982, l='ServerLevel[world]', x=-1742.66, y=71.46, z=-0.18]
+[19Jan2025 20:41:18.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad was kicked for floating too long!
+[19Jan2025 20:41:18.551] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Flying is not enabled on this server
+[19Jan2025 20:41:18.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[19Jan2025 20:41:39.508] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[19Jan2025 20:41:39.513] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[19Jan2025 20:41:39.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.26.62.96:38631] logged in with entity id 35696 at (-1780.8131025251516, 80.94584633840128, 97.13527945924329)
+[19Jan2025 20:41:39.514] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[19Jan2025 20:41:39.514] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[19Jan2025 20:41:39.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[19Jan2025 20:41:39.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[19Jan2025 20:41:39.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[19Jan2025 20:41:39.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[19Jan2025 20:41:39.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[19Jan2025 20:41:39.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[19Jan2025 20:41:39.558] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[19Jan2025 20:41:39.560] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[19Jan2025 20:42:27.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Good Demoman]
+[19Jan2025 20:46:45.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad was kicked for floating too long!
+[19Jan2025 20:46:45.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Flying is not enabled on this server
+[19Jan2025 20:46:45.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game

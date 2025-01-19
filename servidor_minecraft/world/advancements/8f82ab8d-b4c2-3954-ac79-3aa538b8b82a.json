@@ -59,6 +59,7 @@
       "minecraft:sunflower_plains": "2025-01-18 21:11:43 +0000",
       "minecraft:birch_forest": "2025-01-18 18:34:22 +0000",
       "minecraft:windswept_hills": "2025-01-19 20:23:25 +0000",
+      "minecraft:savanna_plateau": "2025-01-19 20:45:08 +0000",
       "minecraft:beach": "2025-01-18 18:43:54 +0000",
       "minecraft:dark_forest": "2025-01-19 20:24:06 +0000",
       "minecraft:sparse_jungle": "2025-01-19 20:28:12 +0000",
@@ -932,6 +933,18 @@
       "location0": "2025-01-19 20:30:01 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-01-19 20:42:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-01-19 20:43:12 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
