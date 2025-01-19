@@ -781,6 +781,12 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2025-01-19 19:19:01 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-01-19 18:52:14 +0000",
@@ -791,6 +797,12 @@
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-01-19 18:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-19 19:15:25 +0000"
     },
     "done": true
   },
