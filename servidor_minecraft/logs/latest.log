@@ -3651,3 +3651,16 @@ java.lang.NullPointerException: Element not found: amount
 [19Jan2025 19:09:03.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9, y=75, z=-111} BlockPos{x=10, y=75, z=-110}
 [19Jan2025 19:15:25.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Spooky Scary Skeleton]
 [19Jan2025 19:20:05.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7604ms or 152 ticks behind
+[19Jan2025 19:32:10.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=13, z=-828} BlockPos{x=195, y=12, z=-829}
+[19Jan2025 19:32:10.131] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=13, z=-828} BlockPos{x=195, y=12, z=-829}
+[19Jan2025 19:32:10.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=13, z=-828} BlockPos{x=194, y=13, z=-827}
+[19Jan2025 19:32:10.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=13, z=-828} BlockPos{x=194, y=13, z=-827}
+[19Jan2025 19:32:10.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=194, y=13, z=-828} BlockPos{x=194, y=13, z=-827}
+[19Jan2025 19:32:10.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=195, y=11, z=-828} BlockPos{x=194, y=13, z=-827}
+[19Jan2025 19:32:10.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=11, z=-828} BlockPos{x=194, y=13, z=-827}
+[19Jan2025 19:32:10.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=11, z=-829} BlockPos{x=194, y=13, z=-827}
+[19Jan2025 19:32:10.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=196, y=11, z=-829} BlockPos{x=194, y=13, z=-827}
+[19Jan2025 19:32:10.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=197, y=10, z=-829} BlockPos{x=194, y=13, z=-827}
+[19Jan2025 19:32:10.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=197, y=10, z=-829} BlockPos{x=198, y=10, z=-829}
+[19Jan2025 19:33:49.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Mine Turtle!]
+[19Jan2025 19:34:58.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Chest Slayer]
