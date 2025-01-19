@@ -3667,3 +3667,15 @@ java.lang.NullPointerException: Element not found: amount
 [19Jan2025 19:41:12.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Dragon Commander]
 [19Jan2025 19:42:25.881] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [19Jan2025 19:54:56.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=216, y=62, z=-806} BlockPos{x=215, y=63, z=-807}
+[19Jan2025 19:57:10.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=59, z=-809} BlockPos{x=217, y=60, z=-809}
+[19Jan2025 19:57:10.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=59, z=-809} BlockPos{x=217, y=60, z=-809}
+[19Jan2025 19:57:10.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=58, z=-808} BlockPos{x=217, y=60, z=-809}
+[19Jan2025 19:57:11.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=219, y=60, z=-809} BlockPos{x=221, y=58, z=-810}
+[19Jan2025 19:57:12.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=219, y=60, z=-809} BlockPos{x=221, y=58, z=-810}
+[19Jan2025 19:57:12.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=219, y=60, z=-809} BlockPos{x=221, y=58, z=-810}
+[19Jan2025 19:57:12.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=219, y=60, z=-809} BlockPos{x=221, y=58, z=-810}
+[19Jan2025 19:57:12.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=219, y=60, z=-809} BlockPos{x=221, y=58, z=-810}
+[19Jan2025 19:57:12.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=59, z=-807} BlockPos{x=221, y=58, z=-810}
+[19Jan2025 19:57:12.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=59, z=-807} BlockPos{x=221, y=58, z=-810}
+[19Jan2025 19:57:12.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=217, y=58, z=-806} BlockPos{x=221, y=58, z=-810}
+[19Jan2025 19:57:22.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
