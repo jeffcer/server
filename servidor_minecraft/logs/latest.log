@@ -3852,3 +3852,20 @@ java.lang.NullPointerException: Element not found: amount
 [19Jan2025 20:46:45.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad was kicked for floating too long!
 [19Jan2025 20:46:45.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Flying is not enabled on this server
 [19Jan2025 20:46:45.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[19Jan2025 20:47:23.757] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[19Jan2025 20:47:23.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[19Jan2025 20:47:23.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.26.62.96:49031] logged in with entity id 37499 at (-1778.9948079679764, 76.82663035166465, 70.34241890077335)
+[19Jan2025 20:47:23.764] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[19Jan2025 20:47:23.764] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[19Jan2025 20:47:23.765] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[19Jan2025 20:47:23.765] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[19Jan2025 20:47:23.767] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[19Jan2025 20:47:23.768] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[19Jan2025 20:47:23.768] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[19Jan2025 20:47:23.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[19Jan2025 20:47:23.805] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[19Jan2025 20:47:23.806] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)
+[19Jan2025 20:48:36.095] [Server thread/WARN] [spawnermod/]: Key=mowziesmobs:umvuthana_follower_raptor was not found when trying to access it! Returning 0
+[19Jan2025 20:48:37.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Masquerade]
+[19Jan2025 20:48:40.744] [Server thread/WARN] [spawnermod/]: Key=mowziesmobs:umvuthana_follower_raptor was not found when trying to access it! Returning 0
+[19Jan2025 20:50:14.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Just a Flesh Wound]

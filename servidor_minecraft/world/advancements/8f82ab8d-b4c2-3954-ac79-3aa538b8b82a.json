@@ -229,6 +229,7 @@
       "minecraft:zombified_piglin": "2025-01-18 19:43:06 +0000",
       "minecraft:witch": "2025-01-19 20:21:30 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
+      "minecraft:husk": "2025-01-19 20:56:46 +0000",
       "minecraft:shulker": "2025-01-18 22:00:11 +0000",
       "minecraft:piglin": "2025-01-18 19:28:22 +0000",
       "minecraft:stray": "2025-01-18 20:18:37 +0000",
@@ -253,6 +254,7 @@
       "minecraft:zombified_piglin": "2025-01-18 19:43:06 +0000",
       "minecraft:witch": "2025-01-19 20:21:30 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
+      "minecraft:husk": "2025-01-19 20:56:46 +0000",
       "minecraft:shulker": "2025-01-18 22:00:11 +0000",
       "minecraft:piglin": "2025-01-18 19:28:22 +0000",
       "minecraft:stray": "2025-01-18 20:18:37 +0000",
@@ -943,6 +945,30 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_lightning_dragon": "2025-01-19 20:43:12 +0000"
+    },
+    "done": false
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-01-19 20:48:37 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-01-19 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-19 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "rats:all_hats": {
+    "criteria": {
+      "has_archeologist_hat": "2025-01-19 20:56:47 +0000"
     },
     "done": false
   },
