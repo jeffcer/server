@@ -213,6 +213,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-18 20:43:32 +0000",
       "minecraft:skeleton": "2025-01-18 18:47:57 +0000",
+      "minecraft:ghast": "2025-01-19 19:05:01 +0000",
       "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
       "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
       "minecraft:spider": "2025-01-18 20:17:57 +0000",
@@ -235,6 +236,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-18 20:43:32 +0000",
       "minecraft:skeleton": "2025-01-18 18:47:57 +0000",
+      "minecraft:ghast": "2025-01-19 19:05:01 +0000",
       "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
       "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
       "minecraft:spider": "2025-01-18 20:17:57 +0000",
@@ -773,6 +775,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-19 19:09:45 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-01-19 18:52:14 +0000",
@@ -801,6 +809,12 @@
   "tombstone:adventure/use_guard": {
     "criteria": {
       "coded_trigger": "2025-01-19 18:42:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-19 19:02:30 +0000"
     },
     "done": true
   },
