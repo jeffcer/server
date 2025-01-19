@@ -3636,3 +3636,5 @@ java.lang.NullPointerException: Element not found: amount
   "<partial numeric data>",
   "[-31, -23, -7, 55, -9, -42, -38, 100, -13, -83, 74]"
 ]
+[19Jan2025 18:42:09.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Where Is The Stone Pen?]
+[19Jan2025 18:42:13.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Spectral Guardian]
