@@ -773,6 +773,19 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-01-19 18:52:14 +0000",
+      "killed": "2025-01-19 18:52:17 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-01-19 18:52:20 +0000"
+    },
+    "done": true
+  },
   "enlightened_end:upper_end_advancement": {
     "criteria": {
       "upper_end_advancement": "2025-01-19 18:18:45 +0000"

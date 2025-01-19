@@ -3644,3 +3644,7 @@ java.lang.NullPointerException: Element not found: amount
 [19Jan2025 18:51:26.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Epic!]
 [19Jan2025 18:52:20.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Capsid-19]
 [19Jan2025 18:54:12.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Henry'/8010, l='ServerLevel[world]', x=-1044.06, y=59.00, z=289.70] died: death.attack.unholy.item
+[19Jan2025 18:57:43.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Faellynna the Misunderstood'/8933, l='ServerLevel[world]', x=-1110.62, y=61.00, z=-26.44] died: Faellynna the Misunderstood was slain by jefferson_pad using [Henry's Cleaving Embered Cleaver of the Bull]
+[19Jan2025 19:01:50.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5208ms or 104 ticks behind
+[19Jan2025 19:01:59.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
+[19Jan2025 19:02:30.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Fighting Nightmares]
