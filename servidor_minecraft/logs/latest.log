@@ -3792,3 +3792,33 @@ java.lang.NullPointerException: Element not found: amount
 [19Jan2025 20:23:33.017] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/28933, l='ServerLevel[world]', x=-1478.90, y=83.35, z=-1018.56] died: Honeyed Archer was slain by jefferson_pad using [Henry's Cleaving Embered Cleaver of the Bull]
 [19Jan2025 20:24:27.159] [Server thread/WARN] [spawnermod/]: Key=iceandfire:pixie was not found when trying to access it! Returning 0
 [19Jan2025 20:24:41.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Who You Gonna Call?]
+[19Jan2025 20:29:45.373] [Worker-Main-133/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[19Jan2025 20:29:45.375] [Worker-Main-133/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[19Jan2025 20:29:45.387] [Worker-Main-133/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[19Jan2025 20:29:45.388] [Worker-Main-133/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[19Jan2025 20:29:45.388] [Worker-Main-133/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[19Jan2025 20:29:45.422] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[19Jan2025 20:29:45.422] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[19Jan2025 20:29:45.423] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[19Jan2025 20:29:45.423] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[19Jan2025 20:29:45.423] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[19Jan2025 20:29:45.433] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[19Jan2025 20:29:45.433] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[19Jan2025 20:29:45.434] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[19Jan2025 20:32:00.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad was kicked for floating too long!
+[19Jan2025 20:32:00.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Flying is not enabled on this server
+[19Jan2025 20:32:00.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[19Jan2025 20:33:11.639] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f5a8663[id=<null>,name=jefferson_pad,properties={},legacy=false] (/127.26.62.96:57693) lost connection: Disconnected
+[19Jan2025 20:33:40.660] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[19Jan2025 20:33:40.666] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[19Jan2025 20:33:40.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jefferson_pad[/127.26.62.96:40617] logged in with entity id 33813 at (-1771.0392701344856, 88.75891725699046, 22.418512378009787)
+[19Jan2025 20:33:40.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to jefferson_pad
+[19Jan2025 20:33:40.667] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to jefferson_pad
+[19Jan2025 20:33:40.668] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to jefferson_pad
+[19Jan2025 20:33:40.668] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to jefferson_pad
+[19Jan2025 20:33:40.670] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to jefferson_pad
+[19Jan2025 20:33:40.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to jefferson_pad
+[19Jan2025 20:33:40.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to jefferson_pad
+[19Jan2025 20:33:40.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad joined the game
+[19Jan2025 20:33:40.708] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[19Jan2025 20:33:40.710] [Server thread/INFO] [Jade/]: Syncing config to jefferson_pad (8f82ab8d-b4c2-3954-ac79-3aa538b8b82a)

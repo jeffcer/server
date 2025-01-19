@@ -58,11 +58,16 @@
       "minecraft:deep_ocean": "2025-01-18 21:17:19 +0000",
       "minecraft:sunflower_plains": "2025-01-18 21:11:43 +0000",
       "minecraft:birch_forest": "2025-01-18 18:34:22 +0000",
+      "minecraft:windswept_hills": "2025-01-19 20:23:25 +0000",
       "minecraft:beach": "2025-01-18 18:43:54 +0000",
+      "minecraft:dark_forest": "2025-01-19 20:24:06 +0000",
+      "minecraft:sparse_jungle": "2025-01-19 20:28:12 +0000",
       "minecraft:river": "2025-01-18 18:43:47 +0000",
       "minecraft:forest": "2025-01-18 18:41:51 +0000",
       "minecraft:ocean": "2025-01-18 18:43:59 +0000",
+      "minecraft:jungle": "2025-01-19 20:27:12 +0000",
       "minecraft:flower_forest": "2025-01-18 18:46:10 +0000",
+      "minecraft:savanna": "2025-01-19 20:29:44 +0000",
       "minecraft:plains": "2025-01-18 19:19:28 +0000"
     },
     "done": false
@@ -777,124 +782,9 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-01-19 19:34:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2025-01-19 19:09:45 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_2": "2025-01-19 19:19:01 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-01-19 20:10:26 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location1": "2025-01-19 20:20:47 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-01-19 18:52:14 +0000",
-      "killed": "2025-01-19 18:52:17 +0000"
-    },
-    "done": false
-  },
-  "rats:plague": {
-    "criteria": {
-      "catch_plague": "2025-01-19 19:35:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-01-19 20:21:30 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2025-01-19 18:52:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-01-19 19:15:25 +0000"
-    },
-    "done": true
-  },
-  "quark:mine_toretoise": {
-    "criteria": {
-      "mine_toretoise": "2025-01-19 19:33:49 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-01-19 20:20:29 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-01-19 19:42:37 +0000"
-    },
-    "done": true
-  },
   "enlightened_end:upper_end_advancement": {
     "criteria": {
       "upper_end_advancement": "2025-01-19 18:18:45 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:trickor_treat": {
-    "criteria": {
-      "trickor_treat_5": "2025-01-19 19:26:48 +0000"
-    },
-    "done": false
-  },
-  "apotheosis:affix/epic": {
-    "criteria": {
-      "sword": "2025-01-19 18:51:26 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-01-19 20:19:58 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_guard": {
-    "criteria": {
-      "coded_trigger": "2025-01-19 18:42:13 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-01-19 19:02:30 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_fishing_hut": {
-    "criteria": {
-      "location0": "2025-01-19 20:14:19 +0000"
     },
     "done": true
   },
@@ -904,15 +794,142 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-01-19 18:42:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 18:42:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-01-19 18:51:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-01-19 18:52:14 +0000",
+      "killed": "2025-01-19 18:52:17 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-01-19 18:52:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-19 19:02:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-19 19:09:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-19 19:15:25 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_2": "2025-01-19 19:19:01 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_5": "2025-01-19 19:26:48 +0000"
+    },
+    "done": false
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-01-19 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-19 19:34:58 +0000"
+    },
+    "done": true
+  },
+  "rats:plague": {
+    "criteria": {
+      "catch_plague": "2025-01-19 19:35:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2025-01-19 19:41:12 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
+  "create:copper": {
     "criteria": {
-      "has_magic_tablet": "2025-01-19 18:42:09 +0000"
+      "0": "2025-01-19 19:42:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 20:10:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-01-19 20:14:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-19 20:19:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-19 20:20:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-01-19 20:20:47 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 20:21:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-19 20:24:41 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-01-19 20:30:01 +0000"
     },
     "done": true
   },
