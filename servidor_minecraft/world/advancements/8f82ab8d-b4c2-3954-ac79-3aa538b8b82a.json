@@ -765,5 +765,23 @@
     },
     "done": true
   },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 18:13:40 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:upper_end_advancement": {
+    "criteria": {
+      "upper_end_advancement": "2025-01-19 18:18:45 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:enter_freezing_end": {
+    "criteria": {
+      "enter_freezing_end": "2025-01-19 18:18:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
