@@ -3679,3 +3679,4 @@ java.lang.NullPointerException: Element not found: amount
 [19Jan2025 19:57:12.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=218, y=59, z=-807} BlockPos{x=221, y=58, z=-810}
 [19Jan2025 19:57:12.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=217, y=58, z=-806} BlockPos{x=221, y=58, z=-810}
 [19Jan2025 19:57:22.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved wrongly!
+[19Jan2025 20:10:26.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Neighborhood Brawl]
