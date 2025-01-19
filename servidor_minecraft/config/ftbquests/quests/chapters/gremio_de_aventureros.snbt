@@ -378,6 +378,36 @@
 			x: -1.5d
 			y: 0.0d
 		}
+		{
+			id: "6A9F43E472437270"
+			rewards: [
+				{
+					id: "5A71837B057D0DFA"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "4E0F21F58737803E"
+					type: "xp_levels"
+					xp_levels: 100
+				}
+			]
+			tasks: [{
+				id: "1455C8F223D9CA8B"
+				item: {
+					Count: 1
+					id: "mowziesmobs:wrought_helmet"
+					tag: {
+						affix_data: {
+							sockets: 1
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
 	]
 	title: "Gremio De Aventureros"
 }

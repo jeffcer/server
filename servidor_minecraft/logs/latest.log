@@ -3869,3 +3869,7 @@ java.lang.NullPointerException: Element not found: amount
 [19Jan2025 20:48:37.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Masquerade]
 [19Jan2025 20:48:40.744] [Server thread/WARN] [spawnermod/]: Key=mowziesmobs:umvuthana_follower_raptor was not found when trying to access it! Returning 0
 [19Jan2025 20:50:14.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has completed the challenge [Just a Flesh Wound]
+[19Jan2025 20:58:27.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad fell from a high place
+[19Jan2025 20:58:27.729] [Server thread/INFO] [tombstone/]: The player jefferson_pad has successfully been saved
+[19Jan2025 20:58:54.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad a server operator
+[19Jan2025 21:05:55.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jefferson_pad no longer a server operator
