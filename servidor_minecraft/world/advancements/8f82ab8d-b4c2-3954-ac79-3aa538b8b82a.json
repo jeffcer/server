@@ -966,11 +966,35 @@
     },
     "done": true
   },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2025-01-19 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-01-19 21:07:36 +0000"
+    },
+    "done": true
+  },
   "rats:all_hats": {
     "criteria": {
       "has_archeologist_hat": "2025-01-19 20:56:47 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-01-19 21:14:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-01-19 21:13:59 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
