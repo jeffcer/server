@@ -18993,3 +18993,13 @@ java.lang.NullPointerException: Element not found: amount
 [19Jan2025 18:41:35.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Jan2025 18:42:09.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Where Is The Stone Pen?]
 [19Jan2025 18:42:13.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has reached the goal [Spectral Guardian]
+[19Jan2025 18:46:27.906] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:mimicube was not found when trying to access it! Returning 0
+[19Jan2025 18:46:35.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 18:46:35.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 18:47:48.551] [Server thread/WARN] [spawnermod/]: Key=alexsmobs:mimicube was not found when trying to access it! Returning 0
+[19Jan2025 18:51:19.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Jillian the Nifty'/7533, l='ServerLevel[world]', x=-1149.90, y=82.23, z=148.05] died: You have perished from unholy damage
+[19Jan2025 18:51:26.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Epic!]
+[19Jan2025 18:51:35.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 18:51:35.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 18:52:20.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad has made the advancement [Capsid-19]
+[19Jan2025 18:54:12.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EnderMan['Henry'/8010, l='ServerLevel[world]', x=-1044.06, y=59.00, z=289.70] died: death.attack.unholy.item

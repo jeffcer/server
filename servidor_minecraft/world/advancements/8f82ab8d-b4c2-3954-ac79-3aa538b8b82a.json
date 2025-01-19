@@ -218,6 +218,7 @@
       "minecraft:spider": "2025-01-18 20:17:57 +0000",
       "minecraft:creeper": "2025-01-18 20:26:03 +0000",
       "minecraft:evoker": "2025-01-18 21:58:01 +0000",
+      "minecraft:phantom": "2025-01-19 18:51:19 +0000",
       "minecraft:zombified_piglin": "2025-01-18 19:43:06 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
       "minecraft:shulker": "2025-01-18 22:00:11 +0000",
@@ -239,6 +240,7 @@
       "minecraft:spider": "2025-01-18 20:17:57 +0000",
       "minecraft:creeper": "2025-01-18 20:26:03 +0000",
       "minecraft:evoker": "2025-01-18 21:58:01 +0000",
+      "minecraft:phantom": "2025-01-19 18:51:19 +0000",
       "minecraft:zombified_piglin": "2025-01-18 19:43:06 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
       "minecraft:shulker": "2025-01-18 22:00:11 +0000",
@@ -777,9 +779,27 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-01-19 18:51:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 18:42:13 +0000"
+    },
+    "done": true
+  },
   "enlightened_end:enter_freezing_end": {
     "criteria": {
       "enter_freezing_end": "2025-01-19 18:18:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-01-19 18:42:09 +0000"
     },
     "done": true
   },
