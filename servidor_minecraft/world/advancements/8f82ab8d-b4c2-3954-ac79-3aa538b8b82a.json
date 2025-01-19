@@ -1026,5 +1026,11 @@
     },
     "done": false
   },
+  "blue_skies:everbright/get_falsite": {
+    "criteria": {
+      "obtain_material": "2025-01-19 21:38:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
