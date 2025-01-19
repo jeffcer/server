@@ -221,6 +221,7 @@
       "minecraft:evoker": "2025-01-18 21:58:01 +0000",
       "minecraft:phantom": "2025-01-19 18:51:19 +0000",
       "minecraft:zombified_piglin": "2025-01-18 19:43:06 +0000",
+      "minecraft:witch": "2025-01-19 20:21:30 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
       "minecraft:shulker": "2025-01-18 22:00:11 +0000",
       "minecraft:piglin": "2025-01-18 19:28:22 +0000",
@@ -244,6 +245,7 @@
       "minecraft:evoker": "2025-01-18 21:58:01 +0000",
       "minecraft:phantom": "2025-01-19 18:51:19 +0000",
       "minecraft:zombified_piglin": "2025-01-18 19:43:06 +0000",
+      "minecraft:witch": "2025-01-19 20:21:30 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
       "minecraft:shulker": "2025-01-18 22:00:11 +0000",
       "minecraft:piglin": "2025-01-18 19:28:22 +0000",
@@ -799,6 +801,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-01-19 20:20:47 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-01-19 18:52:14 +0000",
@@ -809,6 +817,12 @@
   "rats:plague": {
     "criteria": {
       "catch_plague": "2025-01-19 19:35:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 20:21:30 +0000"
     },
     "done": true
   },
@@ -827,6 +841,12 @@
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2025-01-19 19:33:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-01-19 20:20:29 +0000"
     },
     "done": true
   },
@@ -854,6 +874,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-01-19 20:19:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_guard": {
     "criteria": {
       "coded_trigger": "2025-01-19 18:42:13 +0000"
@@ -863,6 +889,12 @@
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-01-19 19:02:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-01-19 20:14:19 +0000"
     },
     "done": true
   },
