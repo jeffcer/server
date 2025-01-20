@@ -104,9 +104,10 @@
   },
   "minecraft:adventure/root": {
     "criteria": {
+      "killed_by_something": "2025-01-20 16:36:41 +0000",
       "killed_something": "2025-01-18 18:35:47 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
@@ -129,7 +130,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-01-18 18:37:02 +0000",
+      "chorus_fruit": "2025-01-20 16:58:15 +0000",
       "baked_potato": "2025-01-20 16:00:28 +0000",
+      "apple": "2025-01-20 16:58:39 +0000",
       "golden_apple": "2025-01-18 21:37:38 +0000"
     },
     "done": false
@@ -150,9 +153,10 @@
     "criteria": {
       "diamond_leggings": "2025-01-18 18:40:31 +0000",
       "diamond_helmet": "2025-01-18 18:40:31 +0000",
+      "diamond_chestplate": "2025-01-20 16:58:47 +0000",
       "diamond_boots": "2025-01-18 18:40:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -389,6 +393,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_shulker": "2025-01-20 16:45:21 +0000",
       "opened_chest": "2025-01-18 21:59:01 +0000"
     },
     "done": false
@@ -417,6 +422,42 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 16:07:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 16:07:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-20 16:07:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 16:07:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-20 16:08:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-20 16:08:31 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ruined_citadel": {
     "criteria": {
       "citadel": "2025-01-20 16:09:50 +0000"
@@ -429,39 +470,33 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_key": {
+  "lootr:1shulker": {
     "criteria": {
-      "has_ingredient": "2025-01-20 16:07:08 +0000"
+      "opened_shulker": "2025-01-20 16:45:21 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
+  "lootr:10loot": {
     "criteria": {
-      "coded_trigger": "2025-01-20 16:07:06 +0000"
+      "loot_stat": "2025-01-20 16:45:27 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "cataclysm:kill_ender_golem": {
     "criteria": {
-      "coded_trigger": "2025-01-20 16:08:31 +0000"
+      "endergolem": "2025-01-20 16:45:46 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "cataclysm:kill_ender_guardian": {
     "criteria": {
-      "coded_trigger": "2025-01-20 16:07:37 +0000"
+      "enderguardian": "2025-01-20 16:47:01 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "coded_trigger": "2025-01-20 16:07:06 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-01-20 16:08:19 +0000"
+      "crying_obsidian": "2025-01-20 16:52:27 +0000"
     },
     "done": true
   },
