@@ -219,8 +219,11 @@
     "criteria": {
       "minecraft:blaze": "2025-01-18 20:43:32 +0000",
       "minecraft:skeleton": "2025-01-18 18:47:57 +0000",
+      "minecraft:zoglin": "2025-01-20 00:52:57 +0000",
       "minecraft:ghast": "2025-01-19 19:05:01 +0000",
       "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
+      "minecraft:guardian": "2025-01-19 22:52:19 +0000",
+      "minecraft:vindicator": "2025-01-20 00:24:27 +0000",
       "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
       "minecraft:spider": "2025-01-18 20:17:57 +0000",
       "minecraft:creeper": "2025-01-18 20:26:03 +0000",
@@ -230,13 +233,15 @@
       "minecraft:witch": "2025-01-19 20:21:30 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
       "minecraft:husk": "2025-01-19 20:56:46 +0000",
+      "minecraft:ender_dragon": "2025-01-20 00:19:44 +0000",
       "minecraft:shulker": "2025-01-18 22:00:11 +0000",
       "minecraft:piglin": "2025-01-18 19:28:22 +0000",
       "minecraft:stray": "2025-01-18 20:18:37 +0000",
       "minecraft:enderman": "2025-01-18 21:47:08 +0000",
       "minecraft:vex": "2025-01-18 21:57:52 +0000",
       "minecraft:zombie": "2025-01-18 19:22:43 +0000",
-      "minecraft:drowned": "2025-01-18 20:37:55 +0000"
+      "minecraft:drowned": "2025-01-18 20:37:55 +0000",
+      "minecraft:zombie_villager": "2025-01-20 00:24:04 +0000"
     },
     "done": false
   },
@@ -244,8 +249,11 @@
     "criteria": {
       "minecraft:blaze": "2025-01-18 20:43:32 +0000",
       "minecraft:skeleton": "2025-01-18 18:47:57 +0000",
+      "minecraft:zoglin": "2025-01-20 00:52:57 +0000",
       "minecraft:ghast": "2025-01-19 19:05:01 +0000",
       "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
+      "minecraft:guardian": "2025-01-19 22:52:19 +0000",
+      "minecraft:vindicator": "2025-01-20 00:24:27 +0000",
       "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
       "minecraft:spider": "2025-01-18 20:17:57 +0000",
       "minecraft:creeper": "2025-01-18 20:26:03 +0000",
@@ -255,13 +263,15 @@
       "minecraft:witch": "2025-01-19 20:21:30 +0000",
       "minecraft:wither_skeleton": "2025-01-18 19:24:29 +0000",
       "minecraft:husk": "2025-01-19 20:56:46 +0000",
+      "minecraft:ender_dragon": "2025-01-20 00:19:44 +0000",
       "minecraft:shulker": "2025-01-18 22:00:11 +0000",
       "minecraft:piglin": "2025-01-18 19:28:22 +0000",
       "minecraft:stray": "2025-01-18 20:18:37 +0000",
       "minecraft:enderman": "2025-01-18 21:47:08 +0000",
       "minecraft:vex": "2025-01-18 21:57:52 +0000",
       "minecraft:zombie": "2025-01-18 19:22:43 +0000",
-      "minecraft:drowned": "2025-01-18 20:37:55 +0000"
+      "minecraft:drowned": "2025-01-18 20:37:55 +0000",
+      "minecraft:zombie_villager": "2025-01-20 00:24:04 +0000"
     },
     "done": false
   },
@@ -396,7 +406,9 @@
       "chorus_fruit": "2025-01-18 19:07:39 +0000",
       "pufferfish": "2025-01-18 21:17:47 +0000",
       "golden_apple": "2025-01-18 21:25:11 +0000",
-      "rotten_flesh": "2025-01-18 20:53:34 +0000"
+      "rotten_flesh": "2025-01-18 20:53:34 +0000",
+      "golden_carrot": "2025-01-19 23:05:02 +0000",
+      "enchanted_golden_apple": "2025-01-19 23:07:04 +0000"
     },
     "done": false
   },
@@ -441,9 +453,10 @@
       "minecraft:crimson_forest": "2025-01-18 19:27:59 +0000",
       "minecraft:nether_wastes": "2025-01-18 19:22:34 +0000",
       "minecraft:soul_sand_valley": "2025-01-18 19:26:31 +0000",
-      "minecraft:warped_forest": "2025-01-18 19:49:32 +0000"
+      "minecraft:warped_forest": "2025-01-18 19:49:32 +0000",
+      "minecraft:basalt_deltas": "2025-01-20 01:30:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
@@ -854,7 +867,9 @@
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
-      "trickor_treat_5": "2025-01-19 19:26:48 +0000"
+      "trickor_treat_2": "2025-01-19 23:54:03 +0000",
+      "trickor_treat_5": "2025-01-19 19:26:48 +0000",
+      "trickor_treat_6": "2025-01-19 23:54:11 +0000"
     },
     "done": false
   },
@@ -944,7 +959,8 @@
   },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "killed_lightning_dragon": "2025-01-19 20:43:12 +0000"
+      "killed_lightning_dragon": "2025-01-19 20:43:12 +0000",
+      "killed_fire_dragon": "2025-01-20 00:48:36 +0000"
     },
     "done": false
   },
@@ -992,6 +1008,7 @@
   },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-01-19 23:37:43 +0000",
       "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-01-19 21:14:17 +0000"
     },
     "done": false
@@ -1029,6 +1046,193 @@
   "blue_skies:everbright/get_falsite": {
     "criteria": {
       "obtain_material": "2025-01-19 21:38:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-01-19 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-01-19 22:05:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 22:22:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-19 22:22:56 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-01-19 22:29:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-01-19 22:29:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-19 22:34:05 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-01-19 22:39:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-01-19 22:48:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-19 23:01:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-01-20 00:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-01-19 23:37:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-01-20 00:19:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-01-20 00:48:15 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-01-20 00:38:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-01-19 23:53:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-19 23:49:18 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-01-20 00:39:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/60ench": {
+    "criteria": {
+      "enchanted_item": "2025-01-20 00:39:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/100ench": {
+    "criteria": {
+      "enchanted_item": "2025-01-20 00:39:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-01-19 23:48:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-20 01:30:44 +0000",
+      "killed": "2025-01-20 01:30:44 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:enchanting/endshelf": {
+    "criteria": {
+      "endshelf": "2025-01-20 00:34:46 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "black": "2025-01-19 23:53:14 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-01-20 00:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-01-20 00:06:25 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/80ench": {
+    "criteria": {
+      "enchanted_item": "2025-01-20 00:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-01-20 00:06:34 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-01-20 00:39:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-20 00:47:31 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-01-20 00:34:38 +0000"
     },
     "done": true
   },
