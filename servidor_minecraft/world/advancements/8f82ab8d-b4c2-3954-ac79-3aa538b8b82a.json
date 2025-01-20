@@ -224,6 +224,7 @@
       "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
       "minecraft:guardian": "2025-01-19 22:52:19 +0000",
       "minecraft:vindicator": "2025-01-20 00:24:27 +0000",
+      "minecraft:magma_cube": "2025-01-20 14:49:51 +0000",
       "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
       "minecraft:spider": "2025-01-18 20:17:57 +0000",
       "minecraft:creeper": "2025-01-18 20:26:03 +0000",
@@ -254,6 +255,7 @@
       "minecraft:hoglin": "2025-01-18 19:28:07 +0000",
       "minecraft:guardian": "2025-01-19 22:52:19 +0000",
       "minecraft:vindicator": "2025-01-20 00:24:27 +0000",
+      "minecraft:magma_cube": "2025-01-20 14:49:51 +0000",
       "minecraft:piglin_brute": "2025-01-18 19:28:24 +0000",
       "minecraft:spider": "2025-01-18 20:17:57 +0000",
       "minecraft:creeper": "2025-01-18 20:26:03 +0000",
@@ -1235,6 +1237,12 @@
       "killed": "2025-01-20 01:30:44 +0000"
     },
     "done": false
+  },
+  "netherexp:nether/frightening_rush": {
+    "criteria": {
+      "condition": "2025-01-20 14:45:26 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
