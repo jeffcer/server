@@ -3525,3 +3525,79 @@ java.lang.NullPointerException: Element not found: amount
 [20Jan2025 15:21:13.502] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Sam'/14197, l='ServerLevel[world]', x=-1499.75, y=56.00, z=2747.81] died: You have perished from holy damage
 [20Jan2025 15:24:13.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved too quickly! -8.989589378740504,0.7000000476837158,-5.301124887177934
 [20Jan2025 15:24:13.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6811ms or 136 ticks behind
+[20Jan2025 15:41:58.522] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[20Jan2025 15:41:58.528] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[20Jan2025 15:41:58.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheAndrewX[/127.199.127.233:47301] logged in with entity id 17811 at (-1588.7413735862524, 63.0, -89.88833364892473)
+[20Jan2025 15:41:58.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to TheAndrewX
+[20Jan2025 15:41:58.529] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to TheAndrewX
+[20Jan2025 15:41:58.530] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to TheAndrewX
+[20Jan2025 15:41:58.530] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to TheAndrewX
+[20Jan2025 15:41:58.532] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to TheAndrewX
+[20Jan2025 15:41:58.534] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to TheAndrewX
+[20Jan2025 15:41:58.535] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to TheAndrewX
+[20Jan2025 15:41:58.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheAndrewX joined the game
+[20Jan2025 15:41:58.658] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[20Jan2025 15:41:58.661] [Server thread/INFO] [Jade/]: Syncing config to TheAndrewX (c5f3efec-9b40-35c4-adc0-ae157e6907fd)
+[20Jan2025 15:42:22.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Shulker['Ursala the Sneaky'/17815, l='ServerLevel[world]', x=-1588.50, y=61.00, z=-82.50] died: Ursala the Sneaky was killed by magic whilst trying to escape TheAndrewX
+[20Jan2025 15:42:23.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheAndrewX has completed the challenge [Titan-Forged]
+[20Jan2025 15:42:30.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheAndrewX> a
+[20Jan2025 15:43:52.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheAndrewX has made the advancement [Not Today, Thank You]
+[20Jan2025 15:44:09.487] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.AssertionError: Damage type not found in registry. This is a bug from that mod that added it!: DamageType[msgId=crystallization, scaling=WHEN_CAUSED_BY_LIVING_NON_PLAYER, exhaustion=0.0, effects=HURT, deathMessageType=DEFAULT]
+	at net.mehvahdjukaar.dummmmmmy.network.ClientBoundDamageNumberMessage.encodeDamage(ClientBoundDamageNumberMessage.java:50) ~[dummmmmmy-1.20-2.0.2.jar%23263!/:?]
+	at net.mehvahdjukaar.dummmmmmy.network.ClientBoundDamageNumberMessage.<init>(ClientBoundDamageNumberMessage.java:41) ~[dummmmmmy-1.20-2.0.2.jar%23263!/:?]
+	at net.mehvahdjukaar.dummmmmmy.common.ModEvents.onEntityDamage(ModEvents.java:73) ~[dummmmmmy-1.20-2.0.2.jar%23263!/:?]
+	at net.minecraft.world.entity.LivingEntity.wrapOperation$zgn000$actuallyHurt_setHealth(LivingEntity.java:8540) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6475_(LivingEntity.java:1635) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1112) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.monster.Shulker.m_6469_(Shulker.java:401) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at com.obscuria.aquamirae.common.effects.CrystallizationMobEffect.m_6386_(CrystallizationMobEffect.java:30) ~[aquamirae-6.API15.jar%23231!/:com.obscuria]
+	at net.minecraft.world.entity.LivingEntity.m_7285_(LivingEntity.java:1024) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:763) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.Mob.m_6075_(Mob.java:271) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:422) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2259) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.entity.monster.Shulker.m_8119_(Shulker.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23347!/:?]
+	... 5 more
+[20Jan2025 15:44:09.536] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 25ac232a-72b6-4ff4-a1c0-afd9ba49a58f
+[20Jan2025 15:44:09.537] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/server/servidor_minecraft/./crash-reports/crash-2025-01-20_15.44.09-server.txt
+[20Jan2025 15:44:09.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Jan2025 15:44:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Jan2025 15:44:09.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad lost connection: Server closed
+[20Jan2025 15:44:09.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jefferson_pad left the game
+[20Jan2025 15:44:09.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Jan2025 15:44:09.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Jan2025 15:44:11.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Jan2025 15:44:11.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Jan2025 15:44:11.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[20Jan2025 15:44:11.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[20Jan2025 15:44:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Jan2025 15:44:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Jan2025 15:44:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Jan2025 15:44:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[20Jan2025 15:44:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[20Jan2025 15:44:11.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Jan2025 15:44:11.701] [Server thread/INFO] [Framework/]: Unloading server configs...
+[20Jan2025 15:44:11.702] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[20Jan2025 15:44:11.705] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[20Jan2025 15:44:11.710] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[20Jan2025 15:45:09.751] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[20Jan2025 15:45:09.752] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[20Jan2025 15:45:10.724] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 2b067fef-79b8-4a91-917b-87b67b1a5d6b
+[20Jan2025 15:45:10.731] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 4f63cd1c-be5a-4078-9bee-3b3edfd5bf25
+[20Jan2025 15:45:10.732] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/server/servidor_minecraft/./crash-reports/crash-2025-01-20_15.45.10-server.txt

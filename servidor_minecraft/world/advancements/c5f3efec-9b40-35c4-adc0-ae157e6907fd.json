@@ -218,57 +218,21 @@
     },
     "done": true
   },
-  "lootr:1chest": {
+  "apotheosis:spawner/capturing": {
     "criteria": {
-      "opened_chest": "2025-01-18 21:59:01 +0000"
+      "egg": "2025-01-18 20:13:44 +0000"
     },
     "done": true
   },
-  "simplyswords:simplyswords": {
+  "apotheosis:affix/chests": {
     "criteria": {
-      "requirement": "2025-01-18 21:59:02 +0000"
+      "sword": "2025-01-18 20:16:55 +0000"
     },
     "done": true
   },
-  "lootr:social": {
+  "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
-      "opened_chest": "2025-01-18 21:59:01 +0000"
-    },
-    "done": false
-  },
-  "portablemobs:mastercelladvancement": {
-    "criteria": {
-      "mastercell": "2025-01-18 20:59:26 +0000"
-    },
-    "done": true
-  },
-  "enlightened_end:enlightened_end_root": {
-    "criteria": {
-      "enlightened_end_root": "2025-01-18 21:52:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_egg": {
-    "criteria": {
-      "dragon_egg": "2025-01-18 20:32:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-01-18 20:25:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-18 20:45:38 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/mythic_gem": {
-    "criteria": {
-      "gem": "2025-01-18 21:34:23 +0000"
+      "dark_metallurgy_0": "2025-01-18 20:20:56 +0000"
     },
     "done": true
   },
@@ -284,51 +248,39 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "in_city": "2025-01-18 21:58:20 +0000"
+      "diamond": "2025-01-18 20:24:35 +0000"
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "entered_end_gateway": "2025-01-18 21:51:16 +0000"
+      "wither_skull": "2025-01-18 20:25:16 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:end/dragon_egg": {
     "criteria": {
-      "blaze_rod": "2025-01-18 21:35:03 +0000"
+      "dragon_egg": "2025-01-18 20:32:52 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "shot_arrow": "2025-01-18 21:50:43 +0000"
+      "get_stone": "2025-01-18 20:45:38 +0000"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "portablemobs:basiccelladvancement": {
     "criteria": {
-      "elytra": "2025-01-18 21:59:01 +0000"
+      "basiccell": "2025-01-18 20:58:55 +0000"
     },
     "done": true
   },
-  "enlightened_end:enderstride_advancement": {
+  "portablemobs:mastercelladvancement": {
     "criteria": {
-      "enderstride_advancement": "2025-01-18 21:52:44 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_leviathan": {
-    "criteria": {
-      "ignis": "2025-01-18 21:01:15 +0000"
-    },
-    "done": true
-  },
-  "savage_and_ravage:adventure/creeper_spores": {
-    "criteria": {
-      "creeper_spores": "2025-01-18 21:35:03 +0000"
+      "mastercell": "2025-01-18 20:59:26 +0000"
     },
     "done": true
   },
@@ -338,9 +290,45 @@
     },
     "done": false
   },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-01-18 21:01:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-18 21:20:06 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-01-18 21:34:23 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-01-18 21:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-18 21:35:03 +0000"
+    },
+    "done": true
+  },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-01-18 21:35:03 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-01-18 21:40:48 +0000"
     },
     "done": true
   },
@@ -356,51 +344,75 @@
     },
     "done": true
   },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-01-18 21:40:48 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_metallurgy": {
-    "criteria": {
-      "dark_metallurgy_0": "2025-01-18 20:20:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-01-18 21:20:06 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/chests": {
-    "criteria": {
-      "sword": "2025-01-18 20:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-01-18 20:24:35 +0000"
-    },
-    "done": true
-  },
-  "portablemobs:basiccelladvancement": {
-    "criteria": {
-      "basiccell": "2025-01-18 20:58:55 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:spawner/capturing": {
-    "criteria": {
-      "egg": "2025-01-18 20:13:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-01-18 21:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-18 21:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-01-18 21:51:16 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:enlightened_end_root": {
+    "criteria": {
+      "enlightened_end_root": "2025-01-18 21:52:06 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:enderstride_advancement": {
+    "criteria": {
+      "enderstride_advancement": "2025-01-18 21:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-18 21:58:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-01-18 21:59:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-01-18 21:59:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-18 21:59:01 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-01-18 21:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-20 15:43:52 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-01-20 15:42:23 +0000"
     },
     "done": true
   },
