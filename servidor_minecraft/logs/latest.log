@@ -3510,3 +3510,18 @@ java.lang.NullPointerException: Element not found: amount
   "<partial numeric data>",
   "[23, -16, -43, 26, -110, -16, -45, 17, 90, -124, 57]"
 ]
+[20Jan2025 14:56:54.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-543, y=50, z=1867} BlockPos{x=-544, y=49, z=1867}
+[20Jan2025 14:56:54.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-544, y=50, z=1867} BlockPos{x=-544, y=49, z=1867}
+[20Jan2025 14:56:54.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-544, y=50, z=1867} BlockPos{x=-544, y=49, z=1867}
+[20Jan2025 14:56:54.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-544, y=50, z=1867} BlockPos{x=-544, y=49, z=1867}
+[20Jan2025 15:00:05.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Doomsday the Unholy'/8146, l='ServerLevel[world]', x=-237.70, y=71.21, z=2170.51] died: You have perished from holy damage
+[20Jan2025 15:07:28.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/9123, l='ServerLevel[world]', x=-546.38, y=74.40, z=2388.24] died: You have perished from holy damage
+[20Jan2025 15:07:41.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/9240, l='ServerLevel[world]', x=-542.32, y=74.40, z=2361.03] died: You have perished from holy damage
+[20Jan2025 15:10:12.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Helen the Warrior'/9689, l='ServerLevel[world]', x=-581.95, y=37.50, z=2586.95] died: You have perished from holy damage
+[20Jan2025 15:11:23.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-616, y=74, z=2724} BlockPos{x=-617, y=73, z=2723}
+[20Jan2025 15:12:47.984] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[20Jan2025 15:12:47.986] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[20Jan2025 15:13:07.555] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Velma the Cracked'/11144, l='ServerLevel[world]', x=-883.29, y=92.00, z=2881.67] died: You have perished from holy damage
+[20Jan2025 15:21:13.502] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Sam'/14197, l='ServerLevel[world]', x=-1499.75, y=56.00, z=2747.81] died: You have perished from holy damage
+[20Jan2025 15:24:13.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jefferson_pad moved too quickly! -8.989589378740504,0.7000000476837158,-5.301124887177934
+[20Jan2025 15:24:13.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6811ms or 136 ticks behind
