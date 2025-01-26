@@ -1,0 +1,22 @@
+{
+	id: "27cd1822-a6c0-491d-b37d-8767b0623206"
+	type: "party"
+	owner: "8b2772b1-d978-42a4-bce3-02e7d8736759"
+	ranks: {
+		8b2772b1-d978-42a4-bce3-02e7d8736759: "owner"
+		d3850a07-0fd2-48d7-b28a-a8ffec6fccb8: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "jefferson_pad's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736981265441L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"jefferson_pad\"}]}" }
+		{ from: "8b2772b1-d978-42a4-bce3-02e7d8736759", date: 1736981265445L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"TheAndrewX\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736981273114L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"TheAndrewX\"}]}" }
+	]
+	extra: { }
+}

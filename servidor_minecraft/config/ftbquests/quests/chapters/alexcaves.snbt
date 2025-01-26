@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "alexcaves"
+	group: ""
+	icon: "alexscaves:spelunkery_table"
+	id: "5E797546136F7589"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "AlexCaves"
+}

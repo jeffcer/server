@@ -4,81 +4,32 @@
 	filename: "jefes"
 	group: ""
 	icon: "minecraft:dragon_egg"
-	id: "4B73E7459E965537"
-	order_index: 2
+	id: "0F0AD5440AB00543"
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
-			id: "2436BBA2AEFB8139"
+			id: "70131411ECC1858C"
 			rewards: [
 				{
-					id: "48107DAB651A3E59"
-					item: {
-						Count: 1
-						id: "justhammers:netherite_impact_hammer"
-						tag: {
-							Damage: 0
-							Enchantments: [
-								{
-									id: "minecraft:efficiency"
-									lvl: 6s
-								}
-								{
-									id: "minecraft:unbreaking"
-									lvl: 6s
-								}
-								{
-									id: "minecraft:silk_touch"
-									lvl: 1s
-								}
-								{
-									id: "minecraft:mending"
-									lvl: 1s
-								}
-							]
-							RepairCost: 15
-							affix_data: {
-								sockets: 0
-							}
-							display: {
-								Name: "{\"text\":\"Wither hammer\"}"
-							}
-						}
-					}
-					type: "item"
-				}
-				{
 					count: 10
-					id: "700D9F88A6819437"
+					id: "29DEFA2F756277EA"
 					item: "skilltree:wisdom_scroll"
 					type: "item"
 				}
 				{
 					count: 6
-					id: "02E62CEB203DF792"
+					id: "12BBB05A068849E2"
 					item: "apotheosis:mythic_material"
 					type: "item"
 				}
-			]
-			tasks: [{
-				entity: "minecraft:wither"
-				id: "3C08D2DFA68BF6BB"
-				type: "kill"
-				value: 1L
-			}]
-			x: -5.5d
-			y: -2.5d
-		}
-		{
-			id: "64EA5396347F31F2"
-			rewards: [
 				{
-					id: "046F4C7A24867635"
-					item: "rats:rat_upgrade_dragon"
-					type: "item"
+					id: "5DE6E244E5E0445B"
+					type: "xp_levels"
+					xp_levels: 10
 				}
 				{
-					id: "14E1E9D97F54E7D9"
+					id: "61E77C20592F854F"
 					item: {
 						Count: 1
 						id: "minecraft:enchanted_book"
@@ -91,212 +42,828 @@
 					}
 					type: "item"
 				}
-				{
-					count: 6
-					id: "0B8D64CDD7748384"
-					item: "apotheosis:mythic_material"
-					type: "item"
-				}
+			]
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: "cataclysm:ender_guardian_spawn_egg"
+				id: "31CE7CE6D35ED523"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "61252B20BF791C21"
+			rewards: [
 				{
 					count: 10
-					id: "419AF5C391184F37"
+					id: "4ED216140ECC31B6"
 					item: "skilltree:wisdom_scroll"
 					type: "item"
 				}
-			]
-			tasks: [{
-				entity: "minecraft:ender_dragon"
-				id: "5936D0DA1AACF23B"
-				type: "kill"
-				value: 1L
-			}]
-			x: -5.5d
-			y: -1.5d
-		}
-		{
-			id: "263923805BF494FC"
-			rewards: [
 				{
-					id: "319EB05B08910A6D"
-					item: "cataclysm:the_leviathan_spawn_egg"
+					count: 6
+					id: "0F19CFEE3AD1074F"
+					item: "apotheosis:mythic_material"
 					type: "item"
 				}
 				{
-					id: "47437059AA49F732"
+					id: "46876F4F773F48D6"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "26ED8392E531997E"
 					item: {
 						Count: 1
 						id: "minecraft:enchanted_book"
 						tag: {
 							StoredEnchantments: [{
-								id: "minecraft:sharpness"
-								lvl: 9s
+								id: "minecraft:looting"
+								lvl: 6s
 							}]
 						}
 					}
-					type: "item"
-				}
-				{
-					count: 12
-					id: "3828BE0FA91A00EC"
-					item: "apotheosis:mythic_material"
-					type: "item"
-				}
-				{
-					count: 12
-					id: "182DD23BB220321D"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
-				{
-					count: 4
-					id: "3A623D670B7C190C"
-					item: "mysticalagriculture:imperium_gemstone_block"
-					type: "item"
-				}
-				{
-					count: 4
-					id: "213D83B0ACA4B6C3"
-					item: "mysticalagriculture:imperium_ingot_block"
-					type: "item"
-				}
-			]
-			tasks: [{
-				entity: "cataclysm:the_leviathan"
-				icon: "cataclysm:the_leviathan_spawn_egg"
-				id: "3DE35EA24F5FB11F"
-				type: "kill"
-				value: 1L
-			}]
-			x: -4.5d
-			y: -2.5d
-		}
-		{
-			id: "5ECA65EC499136A7"
-			rewards: [
-				{
-					id: "0129D0DBDE11436B"
-					item: "cataclysm:netherite_monstrosity_spawn_egg"
-					type: "item"
-				}
-				{
-					id: "0A5F9B2F4D2A593A"
-					item: {
-						Count: 1
-						id: "minecraft:enchanted_book"
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:unbreaking"
-								lvl: 8s
-							}]
-						}
-					}
-					type: "item"
-				}
-				{
-					count: 12
-					id: "2A0DF4CBB037AF9C"
-					item: "apotheosis:mythic_material"
-					type: "item"
-				}
-				{
-					count: 12
-					id: "1F1A4EBF11D9A3DE"
-					item: "skilltree:wisdom_scroll"
-					type: "item"
-				}
-				{
-					count: 4
-					id: "312337F1F5833353"
-					item: "mysticalagriculture:imperium_ingot_block"
-					type: "item"
-				}
-				{
-					count: 4
-					id: "54F99AB5EAA61785"
-					item: "mysticalagriculture:imperium_gemstone_block"
 					type: "item"
 				}
 			]
 			tasks: [{
 				entity: "cataclysm:netherite_monstrosity"
 				icon: "cataclysm:netherite_monstrosity_spawn_egg"
-				id: "7B057EFFB98AB592"
+				id: "63DEFD60E6F833D4"
 				type: "kill"
 				value: 1L
 			}]
-			x: -4.5d
-			y: -1.5d
+			x: 1.0d
+			y: -3.0d
 		}
 		{
-			id: "0C7E7B265198B5D3"
+			id: "334C1EAFE66AD46E"
 			rewards: [
 				{
-					id: "094D8E3AD50EED67"
-					item: "cataclysm:ancient_remnant_spawn_egg"
-					type: "item"
-				}
-				{
-					id: "1E56217D195F4FF8"
-					item: {
-						Count: 1
-						id: "minecraft:enchanted_book"
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:protection"
-								lvl: 8s
-							}]
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "65C92D43DE4E7D04"
-					item: {
-						Count: 1
-						id: "minecraft:enchanted_book"
-						tag: {
-							StoredEnchantments: [{
-								id: "minecraft:protection"
-								lvl: 8s
-							}]
-						}
-					}
-					type: "item"
-				}
-				{
-					count: 12
-					id: "7C97865400DF4C05"
-					item: "apotheosis:mythic_material"
-					type: "item"
-				}
-				{
-					count: 12
-					id: "2E188D47E6D4A0B7"
+					count: 6
+					id: "7D3FFEB9C638E736"
 					item: "skilltree:wisdom_scroll"
 					type: "item"
 				}
 				{
-					count: 2
-					id: "776AAD07BD1508A0"
-					item: "mysticalagriculture:supremium_ingot_block"
+					count: 4
+					id: "1A93333E12798345"
+					item: "apotheosis:mythic_material"
 					type: "item"
 				}
 				{
-					count: 2
-					id: "0AC7077B9CBF6012"
-					item: "mysticalagriculture:supremium_gemstone_block"
+					id: "50830C4B40C6C428"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "6B00B89047FA4491"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 6s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "0E247D4B841A8EE9"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.0d
+			y: -4.0d
+		}
+		{
+			id: "7F33598C97325CFA"
+			rewards: [
+				{
+					count: 6
+					id: "48936E241FBD8474"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "153CF33E4B8A9885"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					id: "6C289039ED9060A1"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "31927FF21C951223"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:unbreaking"
+								lvl: 6s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "66936A56823D30E8"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"334C1EAFE66AD46E"
+				"7F33598C97325CFA"
+			]
+			id: "726A7714F0B7367A"
+			rewards: [
+				{
+					id: "578A661AEBCD468E"
+					item: {
+						Count: 1
+						id: "simplyswords:harbinger"
+						tag: {
+							Damage: 0
+							DurabilityBonuses: [{
+								amount: 0.3f
+								operation: 1
+								type: "skilltree:durability"
+							}]
+							SkillBonuses: [
+								{
+									skill_bonus: {
+										amount: 0.2f
+										damage_condition: {
+											type: "skilltree:none"
+										}
+										enemy_multiplier: {
+											type: "skilltree:none"
+										}
+										operation: 1
+										player_condition: {
+											type: "skilltree:none"
+										}
+										player_multiplier: {
+											type: "skilltree:none"
+										}
+										target_condition: {
+											type: "skilltree:burning"
+										}
+										type: "skilltree:damage"
+									}
+									type: "skilltree:skill_bonus"
+								}
+								{
+									skill_bonus: {
+										chance: 0.25f
+										duration: 5
+										event_listener: {
+											damage_condition: {
+												type: "skilltree:none"
+											}
+											enemy_condition: {
+												type: "skilltree:none"
+											}
+											enemy_multiplier: {
+												type: "skilltree:none"
+											}
+											player_condition: {
+												type: "skilltree:none"
+											}
+											player_multiplier: {
+												type: "skilltree:none"
+											}
+											target: "enemy"
+											type: "skilltree:attack"
+										}
+										type: "skilltree:ignite"
+									}
+									type: "skilltree:skill_bonus"
+								}
+								{
+									skill_bonus: {
+										chance: 0.05f
+										loot_type: "mobs"
+										multiplier: 1.0f
+										type: "skilltree:loot_duplication"
+									}
+									type: "skilltree:skill_bonus"
+								}
+								{
+									skill_bonus: {
+										chance: 0.1f
+										damage_condition: {
+											type: "skilltree:none"
+										}
+										enemy_multiplier: {
+											type: "skilltree:none"
+										}
+										player_condition: {
+											type: "skilltree:none"
+										}
+										player_multiplier: {
+											type: "skilltree:none"
+										}
+										target_condition: {
+											type: "skilltree:none"
+										}
+										type: "skilltree:crit_chance"
+									}
+									type: "skilltree:skill_bonus"
+								}
+								{
+									skill_bonus: {
+										amount: 0.3d
+										attribute: "minecraft:generic.attack_speed"
+										id: "443784ee-1fdd-4a39-ad04-779f6d298efc"
+										name: "Merged"
+										operation: 1
+										player_condition: {
+											type: "skilltree:none"
+										}
+										player_multiplier: {
+											type: "skilltree:none"
+										}
+										type: "skilltree:attribute"
+									}
+									type: "skilltree:skill_bonus"
+								}
+								{
+									skill_bonus: {
+										amount: 7.0d
+										attribute: "minecraft:generic.attack_damage"
+										id: "ed8d1d76-db65-4a71-8706-7d3793d8b07b"
+										name: "Merged"
+										operation: 0
+										player_condition: {
+											type: "skilltree:none"
+										}
+										player_multiplier: {
+											type: "skilltree:none"
+										}
+										type: "skilltree:attribute"
+									}
+									type: "skilltree:skill_bonus"
+								}
+								{
+									amount: 0.3f
+									operation: 1
+									type: "skilltree:durability"
+								}
+							]
+							affix_data: {
+								sockets: 1
+							}
+							nether_power: "no_socket"
+							runic_power: "no_socket"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5DFCEAD9EE0D255A"
+					item: {
+						Count: 1
+						id: "spartanshields:netherite_tower_shield"
+						tag: {
+							Damage: 0
+							DurabilityBonuses: [{
+								amount: 0.3f
+								operation: 1
+								type: "skilltree:durability"
+							}]
+							SkillBonuses: [
+								{
+									skill_bonus: {
+										amount: 5.0d
+										attribute: "skilltree:blocking"
+										id: "f3c73769-9a00-4616-8502-0bec6c3d02d4"
+										name: "SkillBonus"
+										operation: 0
+										player_condition: {
+											type: "skilltree:none"
+										}
+										player_multiplier: {
+											type: "skilltree:none"
+										}
+										type: "skilltree:attribute"
+									}
+									type: "skilltree:skill_bonus"
+								}
+								{
+									skill_bonus: {
+										amount: 5.0d
+										attribute: "minecraft:generic.max_health"
+										id: "c4d660d8-3605-4276-a274-534da5556e3d"
+										name: "SkillBonus"
+										operation: 0
+										player_condition: {
+											type: "skilltree:none"
+										}
+										player_multiplier: {
+											type: "skilltree:none"
+										}
+										type: "skilltree:attribute"
+									}
+									type: "skilltree:skill_bonus"
+								}
+								{
+									skill_bonus: {
+										amount: 15.0d
+										attribute: "minecraft:generic.armor"
+										id: "a506cb85-5cf1-41ee-a953-fd124402a705"
+										name: "Merged"
+										operation: 0
+										player_condition: {
+											type: "skilltree:none"
+										}
+										player_multiplier: {
+											type: "skilltree:none"
+										}
+										type: "skilltree:attribute"
+									}
+									type: "skilltree:skill_bonus"
+								}
+								{
+									amount: 0.3f
+									operation: 1
+									type: "skilltree:durability"
+								}
+							]
+							affix_data: {
+								sockets: 1
+							}
+							gems_count: 1
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "730167A4DD259035"
+				item: "simplyswords:runic_tablet"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.5d
+		}
+		{
+			id: "2F780C915BFA15A9"
+			rewards: [
+				{
+					count: 10
+					id: "691D43813357B8F4"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "042EC822A25C2678"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					id: "34238F7418DF8850"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "7CB9E1593B9F5122"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:protection"
+								lvl: 6s
+							}]
+						}
+					}
 					type: "item"
 				}
 			]
 			tasks: [{
 				entity: "cataclysm:ancient_remnant"
 				icon: "cataclysm:ancient_remnant_spawn_egg"
-				id: "5C543B066A4AA49A"
+				id: "565C33219883EE49"
 				type: "kill"
 				value: 1L
 			}]
-			x: -4.5d
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "374255E27FBE4409"
+			rewards: [
+				{
+					count: 10
+					id: "21B6972C347D0FC8"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "5D867134DB11FE3F"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					id: "35341A0AF57C954A"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "17D7CA0E1968E1DD"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:sharpness"
+								lvl: 7s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: "cataclysm:maledictus_spawn_egg"
+				id: "5BC99AA64BE851C4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "0BE6307C41AA0B5B"
+			rewards: [
+				{
+					count: 32
+					id: "337FBC3F8CBC7350"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					count: 32
+					id: "43389325BC14ED6D"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "65D478EE8D6DBC22"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "5E7F21A8268F7473"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				disable_toast: true
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				icon: "mowziesmobs:wroughtnaut_spawn_egg"
+				id: "479D12B9667EEFA0"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			id: "67703D1A942B3C6B"
+			rewards: [
+				{
+					count: 32
+					id: "5224ED0B0051724F"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					count: 32
+					id: "29AFE444780E66C9"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "275CF32B289FA055"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "6CF084D15DA7A02A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				icon: "mowziesmobs:umvuthi_spawn_egg"
+				id: "6E14E2E1A7FFC6E1"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.0d
 			y: -0.5d
+		}
+		{
+			id: "5546E1E02F8DBFA9"
+			rewards: [
+				{
+					count: 32
+					id: "7998B148DA5B4692"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					count: 32
+					id: "5A1967644A381AB0"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "7C9503CAC29DD0E3"
+					item: "minecraft:diamond"
+					type: "item"
+				}
+				{
+					id: "593CBE4E0C929D5D"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				disable_toast: true
+				entity: "mowziesmobs:frostmaw"
+				icon: "mowziesmobs:frostmaw_spawn_egg"
+				id: "4BAC0A413D6D9EA0"
+				type: "kill"
+				value: 1L
+			}]
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"0BE6307C41AA0B5B"
+				"5546E1E02F8DBFA9"
+				"67703D1A942B3C6B"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				Count: 1
+				id: "mowziesmobs:ice_crystal"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "1E634D9C06BC780C"
+			rewards: [
+				{
+					count: 12
+					id: "0A2B4E898F217045"
+					item: "minecraft:end_portal_frame"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "5ED757E70F5631B7"
+					item: "mowziesmobs:foliaath_seed"
+					type: "item"
+				}
+				{
+					id: "7902C12C2BD77AC9"
+					type: "xp_levels"
+					xp_levels: 30
+				}
+			]
+			tasks: [{
+				id: "2193C45C916397D1"
+				title: "Mowzie's Mobs"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			id: "30D03820B22DDF21"
+			rewards: [
+				{
+					count: 10
+					id: "3C8D7C2EFB77D8F3"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "63DB17D36B1E5268"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					id: "0D8546AB13759640"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "005C5DBB6AD381B0"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "apotheosis:rebounding"
+								lvl: 4s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: "cataclysm:the_leviathan_spawn_egg"
+				id: "6887794EB42B0A56"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "05750F74A16C5B6B"
+			rewards: [
+				{
+					count: 10
+					id: "34AA88BEA3104E73"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "75083B4AD375CDE3"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					id: "1E2B0CEAD7B9D4F8"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "04A2A1A792F7892F"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:efficiency"
+								lvl: 7s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: "cataclysm:the_harbinger_spawn_egg"
+				id: "038D3128BA9CD677"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "10EDB2B11D9A77C4"
+			rewards: [
+				{
+					count: 10
+					id: "49A2EC96A73ABBCD"
+					item: "skilltree:wisdom_scroll"
+					type: "item"
+				}
+				{
+					count: 6
+					id: "58B7E5CF4679D0DB"
+					item: "apotheosis:mythic_material"
+					type: "item"
+				}
+				{
+					id: "131DD6346EE5874F"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "137DB99447E67E35"
+					item: {
+						Count: 1
+						id: "minecraft:enchanted_book"
+						tag: {
+							StoredEnchantments: [{
+								id: "minecraft:power"
+								lvl: 8s
+							}]
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: "cataclysm:ignis_spawn_egg"
+				id: "448E04C5C821B957"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"05750F74A16C5B6B"
+				"30D03820B22DDF21"
+				"70131411ECC1858C"
+				"10EDB2B11D9A77C4"
+				"374255E27FBE4409"
+				"61252B20BF791C21"
+				"2F780C915BFA15A9"
+			]
+			icon: "cataclysm:flame_eye"
+			id: "2D2CC0B13B33514C"
+			rewards: [
+				{
+					id: "7980A754AF60E90D"
+					item: {
+						Count: 1
+						id: "justhammers:destructor_core"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 9
+					id: "6DA412A31E7A250B"
+					item: "mysticalagradditions:insanium_apple"
+					type: "item"
+				}
+				{
+					id: "2CE1FE1F4DC1AAF9"
+					item: {
+						Count: 1
+						id: "angelring:resonant_angel_ring"
+						tag: {
+							energy: 16000000
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00783F25685F7C3B"
+					type: "xp_levels"
+					xp_levels: 80
+				}
+			]
+			tasks: [
+				{
+					id: "4EA6E32227C634B7"
+					title: "L_Ender 's Cataclysm"
+					type: "checkmark"
+				}
+				{
+					id: "35075BCDE15CC463"
+					item: "angelring:energetic_angel_ring"
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.0d
 		}
 	]
 	title: "Jefes"
